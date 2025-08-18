@@ -26,10 +26,10 @@ chemotherapy-TLINK-detection/
 ├── src/
 │   ├── chemo_processor_no_relation.py    # Data preprocessing
 │   ├── relation_model.py                 # Model training
-│   └── test_relation_model.py           # Model evaluation
+│   └── test_relation_model.py            # Model evaluation
 ├── models/
-│   └── config.json                      # Model configuration
-└── README.md                           # This file
+│   └── entity_config.json                # entity configuration
+└── README.md                             # This file
 ```
 
 ## Usage
