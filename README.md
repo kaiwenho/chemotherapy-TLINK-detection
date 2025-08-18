@@ -1,4 +1,4 @@
-# Biomedical Relation Classification with BioBERT
+# Chemotherapy TLINK Detection
 
 A deep learning approach for temporal relation classification in chemotherapy clinical notes using fine-tuned BioBERT. This project classifies temporal relationships between medical events and time expressions in doctor's notes.
 
@@ -22,7 +22,7 @@ The model is designed for chemotherapy temporal annotation datasets containing:
 ## Repository Structure
 
 ```
-biomedical-relation-classification/
+chemotherapy-TLINK-detection/
 ├── src/
 │   ├── chemo_processor_no_relation.py    # Data preprocessing
 │   ├── relation_model.py                 # Model training
