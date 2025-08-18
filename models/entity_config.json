@@ -1,0 +1,12 @@
+{
+  "max_span_length": 12,
+  "span_hidden_size": 150,
+  "dropout": 0.1,
+  "high_recall_threshold": 0.3,
+  "num_entity_classes": 2,
+  "class_loss_weight": 0.7,
+  "class_map": {
+    "1": "EVENT", 
+    "2": "TIMEX3"
+  }
+}
