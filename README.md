@@ -188,17 +188,3 @@ The model provides comprehensive evaluation metrics:
 ## License
 
 This project is licensed under the MIT License.
-
-## Citation
-
-If you use this code in your research, please cite:
-
-```bibtex
-@misc{chemotherapy-tlink-detection,
-  title={Chemotherapy TLINK Detection},
-  author={Your Name},
-  year={2024},
-  publisher={GitHub},
-  howpublished={\url{https://github.com/yourusername/chemotherapy-TLINK-detection}}
-}
-```
