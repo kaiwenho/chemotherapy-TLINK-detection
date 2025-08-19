@@ -1,0 +1,2822 @@
+[
+    {
+        "source_sentence": "The patient began treatment with Carboplatin on 05/15/2023, following the decision made during the last oncologist visit.",
+        "subject_text": "Carboplatin",
+        "object_text": "05/15/2023",
+        "relation": "BEGINS-ON"
+    },
+    {
+        "source_sentence": "After confirming the diagnosis, the administration of Paclitaxel started on March 20, 2023.",
+        "subject_text": "Paclitaxel",
+        "object_text": "March 20, 2023",
+        "relation": "BEGINS-ON"
+    },
+    {
+        "source_sentence": "The chemotherapy regimen consisting of Docetaxel began its course in early July of this year, specifically on 07/01/2023.",
+        "subject_text": "Docetaxel",
+        "object_text": "07/01/2023",
+        "relation": "BEGINS-ON"
+    },
+    {
+        "source_sentence": "As per the treatment plan, the patient received Gemcitabine starting from 2023-09-10.",
+        "subject_text": "Gemcitabine",
+        "object_text": "2023-09-10",
+        "relation": "BEGINS-ON"
+    },
+    {
+        "source_sentence": "Following the discussion in the last appointment, the patient was started on Etoposide, which commenced on 11/01/2023.",
+        "subject_text": "Etoposide",
+        "object_text": "11/01/2023",
+        "relation": "BEGINS-ON"
+    },
+    {
+        "source_sentence": "The patient initiated treatment with carboplatin and paclitaxel on March 15, 2023, and is scheduled for ongoing infusions every three weeks.",
+        "subject_text": "carboplatin and paclitaxel",
+        "object_text": "March 15, 2023",
+        "relation": "BEGINS-ON"
+    },
+    {
+        "source_sentence": "Following the diagnosis, she began her regimen of cisplatin and etoposide starting from April 1, 2023.",
+        "subject_text": "cisplatin and etoposide",
+        "object_text": "April 1, 2023",
+        "relation": "BEGINS-ON"
+    },
+    {
+        "source_sentence": "The chemotherapy with doxorubicin commenced in early February 2023 as part of her treatment plan.",
+        "subject_text": "doxorubicin",
+        "object_text": "early February 2023",
+        "relation": "BEGINS-ON"
+    },
+    {
+        "source_sentence": "After the patient's surgical intervention, she was started on a combination of gemcitabine and nab-paclitaxel effective from 10/10/2023.",
+        "subject_text": "gemcitabine and nab-paclitaxel",
+        "object_text": "10/10/2023",
+        "relation": "BEGINS-ON"
+    },
+    {
+        "source_sentence": "As documented in the treatment plan, the administration of oxaliplatin began on the first of May, 2023.",
+        "subject_text": "oxaliplatin",
+        "object_text": "the first of May, 2023",
+        "relation": "BEGINS-ON"
+    },
+    {
+        "source_sentence": "Following the diagnosis, the patient was started on a regimen of cisplatin and etoposide beginning on June 15, 2022, with the first cycle administered that day.",
+        "subject_text": "cisplatin and etoposide",
+        "object_text": "June 15, 2022",
+        "relation": "BEGINS-ON"
+    },
+    {
+        "source_sentence": "The oncology team decided to initiate doxorubicin treatment for the patient's breast cancer on April 5, 2023, with plans for subsequent doses every three weeks.",
+        "subject_text": "doxorubicin",
+        "object_text": "April 5, 2023",
+        "relation": "BEGINS-ON"
+    },
+    {
+        "source_sentence": "After reviewing the case, the decision was made to start the patient on a combination of carboplatin and paclitaxel, which commenced on March 10, 2021.",
+        "subject_text": "carboplatin and paclitaxel",
+        "object_text": "March 10, 2021",
+        "relation": "BEGINS-ON"
+    },
+    {
+        "source_sentence": "The patient reported for her first cycle of pemetrexed chemotherapy on the scheduled date of January 12, 2022.",
+        "subject_text": "pemetrexed chemotherapy",
+        "object_text": "January 12, 2022",
+        "relation": "BEGINS-ON"
+    },
+    {
+        "source_sentence": "With the treatment plan finalized, she began her therapy with gemcitabine on the 1st of July, 2023, as part of the chemotherapy protocol.",
+        "subject_text": "gemcitabine",
+        "object_text": "the 1st of July, 2023",
+        "relation": "BEGINS-ON"
+    },
+    {
+        "source_sentence": "The patient began treatment with Gemcitabine on March 15, 2023, after confirming the diagnosis of pancreatic cancer.",
+        "subject_text": "Gemcitabine",
+        "object_text": "March 15, 2023",
+        "relation": "BEGINS-ON"
+    },
+    {
+        "source_sentence": "Following the tumor board discussion, the patient was scheduled to start a regimen of Carboplatin on 10/02/2023.",
+        "subject_text": "Carboplatin",
+        "object_text": "10/02/2023",
+        "relation": "BEGINS-ON"
+    },
+    {
+        "source_sentence": "As of July 5, 2023, the patient has initiated treatment with Paclitaxel, which will continue for the next several cycles.",
+        "subject_text": "Paclitaxel",
+        "object_text": "July 5, 2023",
+        "relation": "BEGINS-ON"
+    },
+    {
+        "source_sentence": "On 8/15/2023, the chemotherapy with Doxorubicin was commenced in response to the patient's aggressive lymphoma.",
+        "subject_text": "Doxorubicin",
+        "object_text": "8/15/2023",
+        "relation": "BEGINS-ON"
+    },
+    {
+        "source_sentence": "After discussing the treatment plan, the patient will start the Cisplatin therapy on September 1, 2023.",
+        "subject_text": "Cisplatin",
+        "object_text": "September 1, 2023",
+        "relation": "BEGINS-ON"
+    },
+    {
+        "source_sentence": "The patient began treatment with FOLFOX for colorectal cancer on March 15, 2022, after experiencing worsening symptoms.",
+        "subject_text": "FOLFOX",
+        "object_text": "March 15, 2022",
+        "relation": "BEGINS-ON"
+    },
+    {
+        "source_sentence": "After a thorough evaluation, the oncology team started the patient on pembrolizumab as of April 10, 2021, due to the progression of melanoma.",
+        "subject_text": "pembrolizumab",
+        "object_text": "April 10, 2021",
+        "relation": "BEGINS-ON"
+    },
+    {
+        "source_sentence": "For her advanced lung cancer, the patient commenced carboplatin and paclitaxel therapy beginning on 11/02/2022.",
+        "subject_text": "carboplatin and paclitaxel",
+        "object_text": "11/02/2022",
+        "relation": "BEGINS-ON"
+    },
+    {
+        "source_sentence": "Following the diagnosis, the patient started docetaxel on February 1, 2023, as part of her treatment plan for breast cancer.",
+        "subject_text": "docetaxel",
+        "object_text": "February 1, 2023",
+        "relation": "BEGINS-ON"
+    },
+    {
+        "source_sentence": "In light of her recent clinical assessment, the decision was made to initiate gemcitabine therapy starting from the date of admission, which was noted as June 5, 2023.",
+        "subject_text": "gemcitabine",
+        "object_text": "June 5, 2023",
+        "relation": "BEGINS-ON"
+    },
+    {
+        "source_sentence": "The patient began receiving doxorubicin and cyclophosphamide on January 10, 2022, as part of her treatment plan.",
+        "subject_text": "doxorubicin and cyclophosphamide",
+        "object_text": "January 10, 2022",
+        "relation": "BEGINS-ON"
+    },
+    {
+        "source_sentence": "Initiated gemcitabine therapy on March 5th, which will continue for six cycles.",
+        "subject_text": "gemcitabine therapy",
+        "object_text": "March 5th",
+        "relation": "BEGINS-ON"
+    },
+    {
+        "source_sentence": "The first dose of carboplatin was administered on 02/15/2023 as per the chemotherapy schedule.",
+        "subject_text": "carboplatin",
+        "object_text": "02/15/2023",
+        "relation": "BEGINS-ON"
+    },
+    {
+        "source_sentence": "Chemotherapy with paclitaxel started on July 22, 2021, and is to be given weekly.",
+        "subject_text": "paclitaxel",
+        "object_text": "July 22, 2021",
+        "relation": "BEGINS-ON"
+    },
+    {
+        "source_sentence": "She commenced treatment with cisplatin and etoposide on the 1st of October, 2020.",
+        "subject_text": "cisplatin and etoposide",
+        "object_text": "the 1st of October, 2020",
+        "relation": "BEGINS-ON"
+    },
+    {
+        "source_sentence": "The patient started treatment with carboplatin and paclitaxel for ovarian cancer on March 15, 2022, and will continue for six cycles.",
+        "subject_text": "carboplatin and paclitaxel",
+        "object_text": "March 15, 2022",
+        "relation": "BEGINS-ON"
+    },
+    {
+        "source_sentence": "Following her diagnosis of non-small cell lung cancer, Mrs. Smith began her first round of cisplatin chemotherapy in early February 2023.",
+        "subject_text": "cisplatin chemotherapy",
+        "object_text": "early February 2023",
+        "relation": "BEGINS-ON"
+    },
+    {
+        "source_sentence": "Patient has initiated doxorubicin treatment as part of her breast cancer regimen, commencing on 5th of April, 2021.",
+        "subject_text": "doxorubicin treatment",
+        "object_text": "5th of April, 2021",
+        "relation": "BEGINS-ON"
+    },
+    {
+        "source_sentence": "As per the treatment plan, the patient will start her chemotherapy with gemcitabine on July 10, 2023, to address the pancreatic tumor.",
+        "subject_text": "chemotherapy with gemcitabine",
+        "object_text": "July 10, 2023",
+        "relation": "BEGINS-ON"
+    },
+    {
+        "source_sentence": "On the first of September 2022, the oncology team initiated a regimen of FOLFOX for the patient's colorectal cancer.",
+        "subject_text": "FOLFOX",
+        "object_text": "first of September 2022",
+        "relation": "BEGINS-ON"
+    },
+    {
+        "source_sentence": "The patient commenced her carboplatin treatment on March 5th after the initial consultation.",
+        "subject_text": "carboplatin treatment",
+        "object_text": "March 5th",
+        "relation": "BEGINS-ON"
+    },
+    {
+        "source_sentence": "Following the diagnosis, the oncologist prescribed doxorubicin, which was initiated in late April.",
+        "subject_text": "doxorubicin",
+        "object_text": "late April",
+        "relation": "BEGINS-ON"
+    },
+    {
+        "source_sentence": "She began her chemotherapy regimen with paclitaxel last Friday, as per the treatment plan.",
+        "subject_text": "chemotherapy regimen with paclitaxel",
+        "object_text": "last Friday",
+        "relation": "BEGINS-ON"
+    },
+    {
+        "source_sentence": "After discussing the options, the patient decided to start her treatment with gemcitabine on July 1st.",
+        "subject_text": "treatment with gemcitabine",
+        "object_text": "July 1st",
+        "relation": "BEGINS-ON"
+    },
+    {
+        "source_sentence": "She was advised to begin her maintenance therapy with 5-FU starting next month.",
+        "subject_text": "maintenance therapy with 5-FU",
+        "object_text": "next month",
+        "relation": "BEGINS-ON"
+    },
+    {
+        "source_sentence": "The patient was started on a regimen of carboplatin and paclitaxel for her ovarian cancer, beginning on April 15, 2023, after the diagnosis was confirmed.",
+        "subject_text": "carboplatin and paclitaxel",
+        "object_text": "April 15, 2023",
+        "relation": "BEGINS-ON"
+    },
+    {
+        "source_sentence": "Following the diagnosis of stage II breast cancer, the patient commenced chemotherapy treatment with doxorubicin on 01-10-2023.",
+        "subject_text": "doxorubicin",
+        "object_text": "01-10-2023",
+        "relation": "BEGINS-ON"
+    },
+    {
+        "source_sentence": "The chemotherapy infusion of 5-FU was initiated on the 5th of July, 2023, as part of the treatment plan for colorectal cancer.",
+        "subject_text": "5-FU",
+        "object_text": "5th of July, 2023",
+        "relation": "BEGINS-ON"
+    },
+    {
+        "source_sentence": "After careful evaluation, the patient began treatment with gemcitabine and cisplatin on June 12, 2023, for her lung cancer.",
+        "subject_text": "gemcitabine and cisplatin",
+        "object_text": "June 12, 2023",
+        "relation": "BEGINS-ON"
+    },
+    {
+        "source_sentence": "Chemotherapy with Etoposide was scheduled to start on the 1st of March, 2023, following the patient's diagnosis of testicular cancer.",
+        "subject_text": "Etoposide",
+        "object_text": "1st of March, 2023",
+        "relation": "BEGINS-ON"
+    },
+    {
+        "source_sentence": "The patient initiated treatment with carboplatin on March 15, following a thorough evaluation.",
+        "subject_text": "carboplatin",
+        "object_text": "March 15",
+        "relation": "BEGINS-ON"
+    },
+    {
+        "source_sentence": "After a detailed discussion about her treatment options, she began her chemotherapy regimen with doxorubicin in early June.",
+        "subject_text": "doxorubicin",
+        "object_text": "early June",
+        "relation": "BEGINS-ON"
+    },
+    {
+        "source_sentence": "The chemotherapy sessions started on July 10, where the patient was administered paclitaxel.",
+        "subject_text": "paclitaxel",
+        "object_text": "July 10",
+        "relation": "BEGINS-ON"
+    },
+    {
+        "source_sentence": "On the 1st of February, she received her first dose of 5-fluorouracil as part of her chemotherapy protocol.",
+        "subject_text": "5-fluorouracil",
+        "object_text": "1st of February",
+        "relation": "BEGINS-ON"
+    },
+    {
+        "source_sentence": "The oncologist recommended starting her chemotherapy treatment with gemcitabine immediately after the diagnosis was confirmed on December 5.",
+        "subject_text": "gemcitabine",
+        "object_text": "December 5",
+        "relation": "BEGINS-ON"
+    },
+    {
+        "source_sentence": "The patient began her chemotherapy regimen of cisplatin and etoposide on March 10, 2023, after being diagnosed with small cell lung cancer.",
+        "subject_text": "cisplatin and etoposide",
+        "object_text": "March 10, 2023",
+        "relation": "BEGINS-ON"
+    },
+    {
+        "source_sentence": "Following her recent diagnosis, the patient commenced treatment with doxorubicin in early January 2023.",
+        "subject_text": "doxorubicin",
+        "object_text": "early January 2023",
+        "relation": "BEGINS-ON"
+    },
+    {
+        "source_sentence": "In light of the tumor response, the oncologist has confirmed that the patient will start receiving gemcitabine therapy starting from April 5, 2023.",
+        "subject_text": "gemcitabine therapy",
+        "object_text": "April 5, 2023",
+        "relation": "BEGINS-ON"
+    },
+    {
+        "source_sentence": "After a thorough evaluation, it was decided that the patient would initiate her carboplatin and paclitaxel treatment on July 15, 2023.",
+        "subject_text": "carboplatin and paclitaxel treatment",
+        "object_text": "July 15, 2023",
+        "relation": "BEGINS-ON"
+    },
+    {
+        "source_sentence": "The patient has been advised to start her maintenance therapy with trastuzumab, which will begin in September 2023.",
+        "subject_text": "trastuzumab",
+        "object_text": "September 2023",
+        "relation": "BEGINS-ON"
+    },
+    {
+        "source_sentence": "The patient initiated chemotherapy with paclitaxel on July 15, following the diagnosis of ovarian cancer.",
+        "subject_text": "chemotherapy with paclitaxel",
+        "object_text": "July 15",
+        "relation": "BEGINS-ON"
+    },
+    {
+        "source_sentence": "After discussing the treatment options, we decided to start the doxorubicin regimen on the first of September.",
+        "subject_text": "doxorubicin regimen",
+        "object_text": "the first of September",
+        "relation": "BEGINS-ON"
+    },
+    {
+        "source_sentence": "Her chemotherapy protocol, which includes cisplatin, was scheduled to commence in the week of March 10.",
+        "subject_text": "chemotherapy protocol, which includes cisplatin",
+        "object_text": "the week of March 10",
+        "relation": "BEGINS-ON"
+    },
+    {
+        "source_sentence": "Following her consultation, she received her first dose of carboplatin on April 5.",
+        "subject_text": "first dose of carboplatin",
+        "object_text": "April 5",
+        "relation": "BEGINS-ON"
+    },
+    {
+        "source_sentence": "The chemotherapy treatment plan, which features gemcitabine, will kick off in two weeks from today.",
+        "subject_text": "chemotherapy treatment plan, which features gemcitabine",
+        "object_text": "in two weeks from today",
+        "relation": "BEGINS-ON"
+    },
+    {
+        "source_sentence": "The patient commenced treatment with cisplatin on March 3, 2021, following a recent diagnosis of ovarian cancer.",
+        "subject_text": "cisplatin",
+        "object_text": "March 3, 2021",
+        "relation": "BEGINS-ON"
+    },
+    {
+        "source_sentence": "After discussing options, the decision was made to start the patient on doxorubicin, with the first infusion scheduled for next Monday.",
+        "subject_text": "doxorubicin",
+        "object_text": "next Monday",
+        "relation": "BEGINS-ON"
+    },
+    {
+        "source_sentence": "She started her chemotherapy regimen consisting of etoposide and carboplatin in early January 2023, which will continue for several cycles.",
+        "subject_text": "chemotherapy regimen consisting of etoposide and carboplatin",
+        "object_text": "early January 2023",
+        "relation": "BEGINS-ON"
+    },
+    {
+        "source_sentence": "As per the treatment plan, the administration of paclitaxel began on the first of April, 2020, and is expected to last for six months.",
+        "subject_text": "paclitaxel",
+        "object_text": "the first of April, 2020",
+        "relation": "BEGINS-ON"
+    },
+    {
+        "source_sentence": "On the 10th of September, 2022, the patient received the initial dose of gemcitabine, marking the start of her chemotherapy course.",
+        "subject_text": "gemcitabine",
+        "object_text": "the 10th of September, 2022",
+        "relation": "BEGINS-ON"
+    },
+    {
+        "source_sentence": "The patient began her first cycle of FOLFOX chemotherapy on April 15, following her diagnosis.",
+        "subject_text": "FOLFOX chemotherapy",
+        "object_text": "April 15",
+        "relation": "BEGINS-ON"
+    },
+    {
+        "source_sentence": "After discussing treatment options, the oncology team initiated carboplatin treatment on the 1st of March.",
+        "subject_text": "carboplatin treatment",
+        "object_text": "the 1st of March",
+        "relation": "BEGINS-ON"
+    },
+    {
+        "source_sentence": "On June 5, the patient started a regimen of Paclitaxel and Carboplatin, which is intended to be administered for six cycles.",
+        "subject_text": "Paclitaxel and Carboplatin",
+        "object_text": "June 5",
+        "relation": "BEGINS-ON"
+    },
+    {
+        "source_sentence": "The chemotherapy with Doxorubicin was scheduled to commence on July 10, as per the treatment protocol.",
+        "subject_text": "Doxorubicin",
+        "object_text": "July 10",
+        "relation": "BEGINS-ON"
+    },
+    {
+        "source_sentence": "Following her initial assessment, the patient was started on a Cisplatin regimen effective from October 2.",
+        "subject_text": "Cisplatin regimen",
+        "object_text": "October 2",
+        "relation": "BEGINS-ON"
+    },
+    {
+        "source_sentence": "The patient began her chemotherapy regimen with doxorubicin on January 15, 2023, following the initial diagnosis of breast cancer.",
+        "subject_text": "doxorubicin",
+        "object_text": "January 15, 2023",
+        "relation": "BEGINS-ON"
+    },
+    {
+        "source_sentence": "After a thorough discussion of treatment options, we initiated the patient's first round of cisplatin on March 3rd.",
+        "subject_text": "cisplatin",
+        "object_text": "March 3rd",
+        "relation": "BEGINS-ON"
+    },
+    {
+        "source_sentence": "Chemotherapy with gemcitabine was commenced on the 22nd of July, 2022, as part of the patient's treatment plan for pancreatic cancer.",
+        "subject_text": "gemcitabine",
+        "object_text": "22nd of July, 2022",
+        "relation": "BEGINS-ON"
+    },
+    {
+        "source_sentence": "The oncologist confirmed that the treatment with carboplatin started on October 5, 2023, after reviewing the pathology results.",
+        "subject_text": "carboplatin",
+        "object_text": "October 5, 2023",
+        "relation": "BEGINS-ON"
+    },
+    {
+        "source_sentence": "Following her surgery, the patient will begin her chemotherapy with paclitaxel on the 1st of February.",
+        "subject_text": "paclitaxel",
+        "object_text": "1st of February",
+        "relation": "BEGINS-ON"
+    },
+    {
+        "source_sentence": "The patient began treatment for her ovarian cancer with a regimen of carboplatin and paclitaxel on February 10, 2023, and has tolerated the chemotherapy well so far.",
+        "subject_text": "carboplatin and paclitaxel",
+        "object_text": "February 10, 2023",
+        "relation": "BEGINS-ON"
+    },
+    {
+        "source_sentence": "Following the diagnosis of lung cancer, the oncologist initiated the first cycle of chemotherapy, consisting of cisplatin and etoposide, effective as of March 15th, 2023.",
+        "subject_text": "cisplatin and etoposide",
+        "object_text": "March 15th, 2023",
+        "relation": "BEGINS-ON"
+    },
+    {
+        "source_sentence": "During the follow-up visit, it was noted that the patient started her chemotherapy treatment with doxorubicin on April 22, 2023, as part of her breast cancer management plan.",
+        "subject_text": "doxorubicin",
+        "object_text": "April 22, 2023",
+        "relation": "BEGINS-ON"
+    },
+    {
+        "source_sentence": "The treatment protocol for the patient's colon cancer commenced with oxaliplatin on May 5, 2023, and has been monitored for side effects since then.",
+        "subject_text": "oxaliplatin",
+        "object_text": "May 5, 2023",
+        "relation": "BEGINS-ON"
+    },
+    {
+        "source_sentence": "After discussing the options, the patient consented to begin chemotherapy with gemcitabine starting on June 1, 2023, as part of her treatment regimen for pancreatic cancer.",
+        "subject_text": "gemcitabine",
+        "object_text": "June 1, 2023",
+        "relation": "BEGINS-ON"
+    },
+    {
+        "source_sentence": "The patient began her treatment with cisplatin on 03/15, which is part of her chemotherapy regimen.",
+        "subject_text": "cisplatin",
+        "object_text": "03/15",
+        "relation": "BEGINS-ON"
+    },
+    {
+        "source_sentence": "Following the diagnosis, the oncologist recommended starting doxorubicin last month.",
+        "subject_text": "doxorubicin",
+        "object_text": "last month",
+        "relation": "BEGINS-ON"
+    },
+    {
+        "source_sentence": "Chemotherapy using gemcitabine will commence in two weeks from today.",
+        "subject_text": "gemcitabine",
+        "object_text": "in two weeks",
+        "relation": "BEGINS-ON"
+    },
+    {
+        "source_sentence": "The administration of carboplatin started on April 1st as part of the treatment plan.",
+        "subject_text": "carboplatin",
+        "object_text": "April 1st",
+        "relation": "BEGINS-ON"
+    },
+    {
+        "source_sentence": "The patient has initiated a regimen of paclitaxel, which began on the first of the month.",
+        "subject_text": "paclitaxel",
+        "object_text": "the first of the month",
+        "relation": "BEGINS-ON"
+    },
+    {
+        "source_sentence": "The patient underwent a regimen of FOLFOX starting on January 15, 2023, after experiencing a recurrence of colorectal cancer.",
+        "subject_text": "FOLFOX",
+        "object_text": "January 15, 2023",
+        "relation": "BEGINS-ON"
+    },
+    {
+        "source_sentence": "Following the diagnosis, the chemotherapy with carboplatin and gemcitabine was initiated in the first week of April 2023.",
+        "subject_text": "carboplatin and gemcitabine",
+        "object_text": "first week of April 2023",
+        "relation": "BEGINS-ON"
+    },
+    {
+        "source_sentence": "As part of her treatment plan, doxorubicin was started on May 22, 2023, to address the aggressive breast cancer.",
+        "subject_text": "doxorubicin",
+        "object_text": "May 22, 2023",
+        "relation": "BEGINS-ON"
+    },
+    {
+        "source_sentence": "In light of the patient's recent scans, the oncologist prescribed paclitaxel, which began on July 10, 2023.",
+        "subject_text": "paclitaxel",
+        "object_text": "July 10, 2023",
+        "relation": "BEGINS-ON"
+    },
+    {
+        "source_sentence": "After a thorough evaluation, the chemotherapy regimen consisting of cisplatin was commenced on November 5, 2022.",
+        "subject_text": "cisplatin",
+        "object_text": "November 5, 2022",
+        "relation": "BEGINS-ON"
+    },
+    {
+        "source_sentence": "The patient commenced her chemotherapy regimen of doxorubicin on March 12, 2023, and will continue for several cycles.",
+        "subject_text": "doxorubicin",
+        "object_text": "March 12, 2023",
+        "relation": "BEGINS-ON"
+    },
+    {
+        "source_sentence": "Following the diagnosis, she started receiving cisplatin treatments beginning on 1st February 2023.",
+        "subject_text": "cisplatin",
+        "object_text": "1st February 2023",
+        "relation": "BEGINS-ON"
+    },
+    {
+        "source_sentence": "Chemotherapy with gemcitabine was initiated on June 5, 2023, marking the start of her treatment plan.",
+        "subject_text": "gemcitabine",
+        "object_text": "June 5, 2023",
+        "relation": "BEGINS-ON"
+    },
+    {
+        "source_sentence": "On 10/15/2023, the patient received the first dose of her chemotherapy regimen, which includes paclitaxel.",
+        "subject_text": "paclitaxel",
+        "object_text": "10/15/2023",
+        "relation": "BEGINS-ON"
+    },
+    {
+        "source_sentence": "The treatment with carboplatin started on 22nd of July, 2023, and is expected to last for six months.",
+        "subject_text": "carboplatin",
+        "object_text": "22nd of July, 2023",
+        "relation": "BEGINS-ON"
+    },
+    {
+        "source_sentence": "The patient began treatment with gemcitabine and carboplatin on April 15, 2023, after staging confirmed advanced ovarian cancer.",
+        "subject_text": "gemcitabine and carboplatin",
+        "object_text": "April 15, 2023",
+        "relation": "BEGINS-ON"
+    },
+    {
+        "source_sentence": "Following the diagnosis of non-small cell lung cancer, the oncologist initiated a regimen of cisplatin and etoposide starting from March 1, 2023.",
+        "subject_text": "cisplatin and etoposide",
+        "object_text": "March 1, 2023",
+        "relation": "BEGINS-ON"
+    },
+    {
+        "source_sentence": "After completing the initial assessment, the treatment plan was set to commence with doxorubicin on 10th of June, 2023.",
+        "subject_text": "doxorubicin",
+        "object_text": "10th of June, 2023",
+        "relation": "BEGINS-ON"
+    },
+    {
+        "source_sentence": "As per the patient's treatment schedule, paclitaxel was administered beginning on the 20th of January, 2023, as part of her ongoing therapy.",
+        "subject_text": "paclitaxel",
+        "object_text": "20th of January, 2023",
+        "relation": "BEGINS-ON"
+    },
+    {
+        "source_sentence": "The administration of capecitabine was documented to have started on July 5, 2023, to manage the recurrent breast cancer.",
+        "subject_text": "capecitabine",
+        "object_text": "July 5, 2023",
+        "relation": "BEGINS-ON"
+    },
+    {
+        "source_sentence": "The patient received her first dose of carboplatin on March 10, 2023, marking the beginning of her chemotherapy regimen for breast cancer.",
+        "subject_text": "carboplatin",
+        "object_text": "March 10, 2023",
+        "relation": "BEGINS-ON"
+    },
+    {
+        "source_sentence": "Following a detailed discussion, we commenced the patient's chemotherapy with doxorubicin on 07/15/2023, as per the treatment plan.",
+        "subject_text": "doxorubicin",
+        "object_text": "07/15/2023",
+        "relation": "BEGINS-ON"
+    },
+    {
+        "source_sentence": "The administration of 5-FU began on 2023-04-01, and the patient is scheduled for a total of six cycles over the next few months.",
+        "subject_text": "5-FU",
+        "object_text": "2023-04-01",
+        "relation": "BEGINS-ON"
+    },
+    {
+        "source_sentence": "Chemotherapy treatment with gemcitabine started on the first of September 2023, as part of a palliative care strategy.",
+        "subject_text": "gemcitabine",
+        "object_text": "first of September 2023",
+        "relation": "BEGINS-ON"
+    },
+    {
+        "source_sentence": "After the initial assessment, the patient began receiving her chemotherapy regimen with oxaliplatin effective from 8/30/2023.",
+        "subject_text": "oxaliplatin",
+        "object_text": "8/30/2023",
+        "relation": "BEGINS-ON"
+    },
+    {
+        "source_sentence": "The patient was initiated on a regimen of Carboplatin and Paclitaxel for ovarian cancer beginning on 09/15/2023.",
+        "subject_text": "Carboplatin and Paclitaxel",
+        "object_text": "09/15/2023",
+        "relation": "BEGINS-ON"
+    },
+    {
+        "source_sentence": "After discussing the treatment options, the decision was made to start chemotherapy with Doxorubicin on January 10th, 2023.",
+        "subject_text": "Doxorubicin",
+        "object_text": "January 10th, 2023",
+        "relation": "BEGINS-ON"
+    },
+    {
+        "source_sentence": "Following the diagnosis, the patient began her first cycle of Gemcitabine on the first week of July 2023.",
+        "subject_text": "Gemcitabine",
+        "object_text": "the first week of July 2023",
+        "relation": "BEGINS-ON"
+    },
+    {
+        "source_sentence": "The oncology team commenced the patient's chemotherapy treatment with FOLFIRINOX on 03/22/2023 as per the treatment plan.",
+        "subject_text": "FOLFIRINOX",
+        "object_text": "03/22/2023",
+        "relation": "BEGINS-ON"
+    },
+    {
+        "source_sentence": "As of last Monday, the patient has started chemotherapy with Etoposide for small cell lung cancer, effective from 10/02/2023.",
+        "subject_text": "Etoposide",
+        "object_text": "10/02/2023",
+        "relation": "BEGINS-ON"
+    },
+    {
+        "source_sentence": "The patient started a regimen of Cisplatin on March 15, 2023, following the diagnosis of advanced lung cancer.",
+        "subject_text": "Cisplatin",
+        "object_text": "March 15, 2023",
+        "relation": "BEGINS-ON"
+    },
+    {
+        "source_sentence": "Chemotherapy with Gemcitabine was initiated as of 01/10/2023 after the patient's cancer staging.",
+        "subject_text": "Gemcitabine",
+        "object_text": "01/10/2023",
+        "relation": "BEGINS-ON"
+    },
+    {
+        "source_sentence": "Following the treatment plan, the patient began receiving doxorubicin on April 5, 2023, as part of their cancer management.",
+        "subject_text": "doxorubicin",
+        "object_text": "April 5, 2023",
+        "relation": "BEGINS-ON"
+    },
+    {
+        "source_sentence": "The oncologist recommended starting a course of Carboplatin beginning on the 15th of February, 2023, to target the tumor.",
+        "subject_text": "Carboplatin",
+        "object_text": "15th of February, 2023",
+        "relation": "BEGINS-ON"
+    },
+    {
+        "source_sentence": "She commenced treatment with Paclitaxel on 10/21/2023, as outlined in the treatment protocol.",
+        "subject_text": "Paclitaxel",
+        "object_text": "10/21/2023",
+        "relation": "BEGINS-ON"
+    },
+    {
+        "source_sentence": "The patient began treatment with gemcitabine and cisplatin for her lung cancer on March 10, 2023, and she is tolerating it well.",
+        "subject_text": "gemcitabine and cisplatin",
+        "object_text": "March 10, 2023",
+        "relation": "BEGINS-ON"
+    },
+    {
+        "source_sentence": "On January 5th, 2023, Mr. Smith initiated his first cycle of chemotherapy with doxorubicin and cyclophosphamide as part of his treatment plan for breast cancer.",
+        "subject_text": "doxorubicin and cyclophosphamide",
+        "object_text": "January 5th, 2023",
+        "relation": "BEGINS-ON"
+    },
+    {
+        "source_sentence": "Following the diagnosis of colorectal cancer, the patient was started on FOLFOX chemotherapy regimen on the 12th of July, 2023.",
+        "subject_text": "FOLFOX chemotherapy regimen",
+        "object_text": "the 12th of July, 2023",
+        "relation": "BEGINS-ON"
+    },
+    {
+        "source_sentence": "After thorough evaluation, she was prescribed carboplatin and etoposide, beginning her treatment on October 1st.",
+        "subject_text": "carboplatin and etoposide",
+        "object_text": "October 1st",
+        "relation": "BEGINS-ON"
+    },
+    {
+        "source_sentence": "During her last visit, we started the patient on a new chemotherapy protocol involving oxaliplatin and 5-FU, effective from April 15, 2023.",
+        "subject_text": "oxaliplatin and 5-FU",
+        "object_text": "April 15, 2023",
+        "relation": "BEGINS-ON"
+    },
+    {
+        "source_sentence": "The patient commenced treatment with cisplatin on January 5, 2023, as part of their chemotherapy regimen.",
+        "subject_text": "cisplatin",
+        "object_text": "January 5, 2023",
+        "relation": "BEGINS-ON"
+    },
+    {
+        "source_sentence": "After discussing options, the decision was made to start doxorubicin therapy beginning March 3rd.",
+        "subject_text": "doxorubicin therapy",
+        "object_text": "March 3rd",
+        "relation": "BEGINS-ON"
+    },
+    {
+        "source_sentence": "The patient received their first dose of gemcitabine on 10/12/2022, marking the beginning of their chemotherapy treatment.",
+        "subject_text": "gemcitabine",
+        "object_text": "10/12/2022",
+        "relation": "BEGINS-ON"
+    },
+    {
+        "source_sentence": "Initiated carboplatin and paclitaxel combination chemotherapy on the 25th of July, 2023.",
+        "subject_text": "carboplatin and paclitaxel combination chemotherapy",
+        "object_text": "the 25th of July, 2023",
+        "relation": "BEGINS-ON"
+    },
+    {
+        "source_sentence": "Chemotherapy with etoposide began on April 1, 2021, after staging was completed.",
+        "subject_text": "etoposide",
+        "object_text": "April 1, 2021",
+        "relation": "BEGINS-ON"
+    },
+    {
+        "source_sentence": "The patient initiated treatment with Carboplatin on May 5, 2021, as part of the chemotherapy regimen for stage III ovarian cancer.",
+        "subject_text": "Carboplatin",
+        "object_text": "May 5, 2021",
+        "relation": "BEGINS-ON"
+    },
+    {
+        "source_sentence": "After thorough evaluation, the decision was made to commence Gemcitabine therapy starting from January 10, 2022.",
+        "subject_text": "Gemcitabine",
+        "object_text": "January 10, 2022",
+        "relation": "BEGINS-ON"
+    },
+    {
+        "source_sentence": "During the follow-up visit, the patient reported that her treatment with Cisplatin began on the first day of February 2023.",
+        "subject_text": "Cisplatin",
+        "object_text": "the first day of February 2023",
+        "relation": "BEGINS-ON"
+    },
+    {
+        "source_sentence": "The oncologist noted that the patient was started on a regimen of Paclitaxel as of March 15, 2020, which included weekly infusions.",
+        "subject_text": "Paclitaxel",
+        "object_text": "March 15, 2020",
+        "relation": "BEGINS-ON"
+    },
+    {
+        "source_sentence": "In the last consultation, it was documented that the patient began her FOLFOX chemotherapy regimen on September 1, 2019.",
+        "subject_text": "FOLFOX chemotherapy regimen",
+        "object_text": "September 1, 2019",
+        "relation": "BEGINS-ON"
+    },
+    {
+        "source_sentence": "The patient began receiving doxorubicin on February 15, 2023, as part of her treatment plan for breast cancer.",
+        "subject_text": "doxorubicin",
+        "object_text": "February 15, 2023",
+        "relation": "BEGINS-ON"
+    },
+    {
+        "source_sentence": "After reviewing the case, the oncologist decided to start the patient on a regimen of carboplatin and paclitaxel, commencing on 01-March-2023.",
+        "subject_text": "carboplatin and paclitaxel",
+        "object_text": "01-March-2023",
+        "relation": "BEGINS-ON"
+    },
+    {
+        "source_sentence": "Patient's chemotherapy treatment with gemcitabine was initiated in the last week of July 2023, specifically on the 28th.",
+        "subject_text": "gemcitabine",
+        "object_text": "28th",
+        "relation": "BEGINS-ON"
+    },
+    {
+        "source_sentence": "Following a thorough assessment, she commenced her first cycle of methotrexate on 2023-04-10.",
+        "subject_text": "methotrexate",
+        "object_text": "2023-04-10",
+        "relation": "BEGINS-ON"
+    },
+    {
+        "source_sentence": "The patient started her chemotherapy with cisplatin on 2023/05/01 as a part of her ongoing treatment for lung cancer.",
+        "subject_text": "cisplatin",
+        "object_text": "2023/05/01",
+        "relation": "BEGINS-ON"
+    },
+    {
+        "source_sentence": "Following the patient's evaluation, she was scheduled to start her FOLFOX chemotherapy regimen on March 15, 2023, after discussing the benefits and side effects with the oncologist.",
+        "subject_text": "FOLFOX chemotherapy regimen",
+        "object_text": "March 15, 2023",
+        "relation": "BEGINS-ON"
+    },
+    {
+        "source_sentence": "Due to the progression of breast cancer, the patient began treatment with Adriamycin on January 10, 2023, as per the treatment plan outlined in our last meeting.",
+        "subject_text": "Adriamycin",
+        "object_text": "January 10, 2023",
+        "relation": "BEGINS-ON"
+    },
+    {
+        "source_sentence": "After receiving the latest test results, we decided that the patient would initiate carboplatin chemotherapy starting on April 1st, 2023.",
+        "subject_text": "carboplatin chemotherapy",
+        "object_text": "April 1st, 2023",
+        "relation": "BEGINS-ON"
+    },
+    {
+        "source_sentence": "The oncologist recommended starting the patient on a new regimen of Paclitaxel, which will commence on 12/05/2023 to address her ongoing treatment needs.",
+        "subject_text": "Paclitaxel",
+        "object_text": "12/05/2023",
+        "relation": "BEGINS-ON"
+    },
+    {
+        "source_sentence": "In our last consultation, we established that the patient's next round of chemotherapy using Gemcitabine would begin on the 22nd of November, 2023.",
+        "subject_text": "chemotherapy using Gemcitabine",
+        "object_text": "the 22nd of November, 2023",
+        "relation": "BEGINS-ON"
+    },
+    {
+        "source_sentence": "The patient began receiving Carboplatin and Paclitaxel chemotherapy on April 15, 2023, as part of the treatment plan.",
+        "subject_text": "Carboplatin and Paclitaxel chemotherapy",
+        "object_text": "April 15, 2023",
+        "relation": "BEGINS-ON"
+    },
+    {
+        "source_sentence": "Initiation of the Doxorubicin treatment occurred in early May 2022, following the patient's surgical recovery.",
+        "subject_text": "Doxorubicin treatment",
+        "object_text": "early May 2022",
+        "relation": "BEGINS-ON"
+    },
+    {
+        "source_sentence": "As stated in the treatment summary, the administration of Etoposide commenced on the 3rd of October, 2021.",
+        "subject_text": "Etoposide",
+        "object_text": "the 3rd of October, 2021",
+        "relation": "BEGINS-ON"
+    },
+    {
+        "source_sentence": "Following the diagnosis, the patient started Folfox chemotherapy regimen in September 2023 to address the recurrence of cancer.",
+        "subject_text": "Folfox chemotherapy regimen",
+        "object_text": "September 2023",
+        "relation": "BEGINS-ON"
+    },
+    {
+        "source_sentence": "In our last appointment, we discussed that the Gemcitabine and Cisplatin treatment will kick off in the second week of July 2022.",
+        "subject_text": "Gemcitabine and Cisplatin treatment",
+        "object_text": "the second week of July 2022",
+        "relation": "BEGINS-ON"
+    },
+    {
+        "source_sentence": "The patient began her chemotherapy regimen with Carboplatin on March 15, 2022, which is expected to last for several cycles.",
+        "subject_text": "Carboplatin",
+        "object_text": "March 15, 2022",
+        "relation": "BEGINS-ON"
+    },
+    {
+        "source_sentence": "Following the diagnosis, she started her treatment with Doxorubicin last month, specifically on February 10, 2023.",
+        "subject_text": "Doxorubicin",
+        "object_text": "February 10, 2023",
+        "relation": "BEGINS-ON"
+    },
+    {
+        "source_sentence": "Initiation of the FOLFOX chemotherapy protocol commenced on 6/20/2021, as part of the patient's treatment plan.",
+        "subject_text": "FOLFOX chemotherapy protocol",
+        "object_text": "6/20/2021",
+        "relation": "BEGINS-ON"
+    },
+    {
+        "source_sentence": "He started his Chemotherapy with Paclitaxel in the first week of April 2022, marking a critical step in his treatment.",
+        "subject_text": "Paclitaxel",
+        "object_text": "first week of April 2022",
+        "relation": "BEGINS-ON"
+    },
+    {
+        "source_sentence": "The oncologist confirmed that the patient would start the Gemcitabine treatment regimen effective from April 1, 2023.",
+        "subject_text": "Gemcitabine treatment regimen",
+        "object_text": "April 1, 2023",
+        "relation": "BEGINS-ON"
+    },
+    {
+        "source_sentence": "The patient began chemotherapy with Cisplatin on 01/15/2023.",
+        "subject_text": "Cisplatin",
+        "object_text": "01/15/2023",
+        "relation": "BEGINS-ON"
+    },
+    {
+        "source_sentence": "As of March 3rd, the patient has commenced treatment with Adriamycin.",
+        "subject_text": "Adriamycin",
+        "object_text": "March 3rd",
+        "relation": "BEGINS-ON"
+    },
+    {
+        "source_sentence": "The initiation of the Gemcitabine regimen occurred on 2023-07-12.",
+        "subject_text": "Gemcitabine",
+        "object_text": "2023-07-12",
+        "relation": "BEGINS-ON"
+    },
+    {
+        "source_sentence": "Chemotherapy with Paclitaxel started in the first week of September.",
+        "subject_text": "Paclitaxel",
+        "object_text": "the first week of September",
+        "relation": "BEGINS-ON"
+    },
+    {
+        "source_sentence": "On 04/22/2023, the patient started the Etoposide treatment protocol.",
+        "subject_text": "Etoposide",
+        "object_text": "04/22/2023",
+        "relation": "BEGINS-ON"
+    },
+    {
+        "source_sentence": "The patient began a regimen of doxorubicin and cyclophosphamide on March 5, 2023, following her diagnosis.",
+        "subject_text": "doxorubicin and cyclophosphamide",
+        "object_text": "March 5, 2023",
+        "relation": "BEGINS-ON"
+    },
+    {
+        "source_sentence": "After our last consultation, she started her treatment with gemcitabine as of April 10th.",
+        "subject_text": "gemcitabine",
+        "object_text": "April 10th",
+        "relation": "BEGINS-ON"
+    },
+    {
+        "source_sentence": "Following the initial assessment, the chemotherapy with carboplatin commenced on the first of July, 2022.",
+        "subject_text": "carboplatin",
+        "object_text": "the first of July, 2022",
+        "relation": "BEGINS-ON"
+    },
+    {
+        "source_sentence": "He was advised to start his next cycle of paclitaxel beginning on January 15, 2023, as per the treatment plan.",
+        "subject_text": "paclitaxel",
+        "object_text": "January 15, 2023",
+        "relation": "BEGINS-ON"
+    },
+    {
+        "source_sentence": "In our follow-up visit, the oncologist noted that she would initiate her treatment with 5-fluorouracil starting in early March.",
+        "subject_text": "5-fluorouracil",
+        "object_text": "early March",
+        "relation": "BEGINS-ON"
+    },
+    {
+        "source_sentence": "After completing six cycles of chemotherapy with Cisplatin and Etoposide, the patient finished her treatment on May 10, 2022.",
+        "subject_text": "Cisplatin and Etoposide",
+        "object_text": "May 10, 2022",
+        "relation": "ENDS-ON"
+    },
+    {
+        "source_sentence": "The patient underwent FOLFOX regimen for her colon cancer and concluded her last session of treatment by the end of January 2023.",
+        "subject_text": "FOLFOX regimen",
+        "object_text": "the end of January 2023",
+        "relation": "ENDS-ON"
+    },
+    {
+        "source_sentence": "She started her chemotherapy with Doxorubicin and Cyclophosphamide, and the last dose was administered on March 15, 2023.",
+        "subject_text": "Doxorubicin and Cyclophosphamide",
+        "object_text": "March 15, 2023",
+        "relation": "ENDS-ON"
+    },
+    {
+        "source_sentence": "The patient's treatment with Paclitaxel was carried out until June 5, 2023, after which no further chemotherapy was planned.",
+        "subject_text": "Paclitaxel",
+        "object_text": "June 5, 2023",
+        "relation": "ENDS-ON"
+    },
+    {
+        "source_sentence": "Following a successful regimen of Gemcitabine and Nab-Paclitaxel, the chemotherapy concluded on July 20, 2022.",
+        "subject_text": "Gemcitabine and Nab-Paclitaxel",
+        "object_text": "July 20, 2022",
+        "relation": "ENDS-ON"
+    },
+    {
+        "source_sentence": "The patient completed a regimen of doxorubicin and cyclophosphamide, finishing treatment on May 15, 2023.",
+        "subject_text": "doxorubicin and cyclophosphamide",
+        "object_text": "May 15, 2023",
+        "relation": "ENDS-ON"
+    },
+    {
+        "source_sentence": "Following six cycles of taxane-based chemotherapy, the last session was held in early March 2022.",
+        "subject_text": "taxane-based chemotherapy",
+        "object_text": "early March 2022",
+        "relation": "ENDS-ON"
+    },
+    {
+        "source_sentence": "The patient's treatment with gemcitabine concluded on December 1st, 2021 after a total of four cycles.",
+        "subject_text": "gemcitabine",
+        "object_text": "December 1st, 2021",
+        "relation": "ENDS-ON"
+    },
+    {
+        "source_sentence": "She underwent a complete course of carboplatin and paclitaxel, which ended in September 2020.",
+        "subject_text": "carboplatin and paclitaxel",
+        "object_text": "September 2020",
+        "relation": "ENDS-ON"
+    },
+    {
+        "source_sentence": "After receiving irinotecan and 5-FU for 12 weeks, the chemotherapy treatment wrapped up on August 30, 2023.",
+        "subject_text": "irinotecan and 5-FU",
+        "object_text": "August 30, 2023",
+        "relation": "ENDS-ON"
+    },
+    {
+        "source_sentence": "The patient completed their chemotherapy regimen of gemcitabine and cisplatin on March 10, 2023, with no reported side effects.",
+        "subject_text": "gemcitabine and cisplatin",
+        "object_text": "March 10, 2023",
+        "relation": "ENDS-ON"
+    },
+    {
+        "source_sentence": "After a successful treatment plan, the patient finished her last cycle of doxorubicin on 08/20/2023 and is now in recovery.",
+        "subject_text": "doxorubicin",
+        "object_text": "08/20/2023",
+        "relation": "ENDS-ON"
+    },
+    {
+        "source_sentence": "Following four months of treatment, the patient's administration of carboplatin concluded at the end of December 2022.",
+        "subject_text": "carboplatin",
+        "object_text": "the end of December 2022",
+        "relation": "ENDS-ON"
+    },
+    {
+        "source_sentence": "The final dose of paclitaxel was given on April 1, 2023, marking the end of the patient’s chemotherapy protocol.",
+        "subject_text": "paclitaxel",
+        "object_text": "April 1, 2023",
+        "relation": "ENDS-ON"
+    },
+    {
+        "source_sentence": "The patient underwent her last infusion of 5-FU on January 15, 2023, completing her six-month chemotherapy treatment plan.",
+        "subject_text": "5-FU",
+        "object_text": "January 15, 2023",
+        "relation": "ENDS-ON"
+    },
+    {
+        "source_sentence": "The patient completed her chemotherapy treatment with Doxorubicin and Cyclophosphamide last week, marking the end of her regimen on October 10th.",
+        "subject_text": "chemotherapy treatment with Doxorubicin and Cyclophosphamide",
+        "object_text": "October 10th",
+        "relation": "ENDS-ON"
+    },
+    {
+        "source_sentence": "After eight cycles of gemcitabine, the patient concluded her chemotherapy on the 5th of March, feeling hopeful about her recovery.",
+        "subject_text": "eight cycles of gemcitabine",
+        "object_text": "5th of March",
+        "relation": "ENDS-ON"
+    },
+    {
+        "source_sentence": "Following her treatment plan, she finished her last dose of Cisplatin and Etoposide on April 22nd, 2023.",
+        "subject_text": "last dose of Cisplatin and Etoposide",
+        "object_text": "April 22nd, 2023",
+        "relation": "ENDS-ON"
+    },
+    {
+        "source_sentence": "The administration of Taxotere was completed by the end of May, providing the patient with a brief respite before her next steps.",
+        "subject_text": "administration of Taxotere",
+        "object_text": "end of May",
+        "relation": "ENDS-ON"
+    },
+    {
+        "source_sentence": "Patient underwent chemotherapy with Oxaliplatin and Capecitabine, finishing the treatment cycle by the second week of July.",
+        "subject_text": "chemotherapy with Oxaliplatin and Capecitabine",
+        "object_text": "second week of July",
+        "relation": "ENDS-ON"
+    },
+    {
+        "source_sentence": "The patient completed her regimen of doxorubicin and cyclophosphamide on January 15, 2022, after receiving treatment for six cycles.",
+        "subject_text": "doxorubicin and cyclophosphamide",
+        "object_text": "January 15, 2022",
+        "relation": "ENDS-ON"
+    },
+    {
+        "source_sentence": "Following her initial chemotherapy with cisplatin and gemcitabine, she concluded the treatment phase in early March 2023.",
+        "subject_text": "cisplatin and gemcitabine",
+        "object_text": "early March 2023",
+        "relation": "ENDS-ON"
+    },
+    {
+        "source_sentence": "After starting the FOLFOX regimen in November 2022, the chemotherapy ended successfully on December 30, 2022.",
+        "subject_text": "FOLFOX regimen",
+        "object_text": "December 30, 2022",
+        "relation": "ENDS-ON"
+    },
+    {
+        "source_sentence": "His treatment with pembrolizumab was concluded on July 10, 2021, marking the end of his chemotherapy course.",
+        "subject_text": "pembrolizumab",
+        "object_text": "July 10, 2021",
+        "relation": "ENDS-ON"
+    },
+    {
+        "source_sentence": "She was treated with a combination of etoposide and carboplatin, finishing the chemotherapy sessions by the end of September 2020.",
+        "subject_text": "etoposide and carboplatin",
+        "object_text": "the end of September 2020",
+        "relation": "ENDS-ON"
+    },
+    {
+        "source_sentence": "The patient completed a regimen of Cisplatin and Etoposide which started in early March and concluded on April 20, 2021.",
+        "subject_text": "Cisplatin and Etoposide",
+        "object_text": "April 20, 2021",
+        "relation": "ENDS-ON"
+    },
+    {
+        "source_sentence": "After undergoing six cycles of FOLFOX chemotherapy, the treatment was finished in the first week of October 2020.",
+        "subject_text": "FOLFOX chemotherapy",
+        "object_text": "first week of October 2020",
+        "relation": "ENDS-ON"
+    },
+    {
+        "source_sentence": "The administration of Adriamycin started on June 15 and was completed by the end of July 2021.",
+        "subject_text": "Adriamycin",
+        "object_text": "end of July 2021",
+        "relation": "ENDS-ON"
+    },
+    {
+        "source_sentence": "Following 12 weeks of maintenance therapy with Gemcitabine, the patient concluded treatment on January 15, 2022.",
+        "subject_text": "Gemcitabine",
+        "object_text": "January 15, 2022",
+        "relation": "ENDS-ON"
+    },
+    {
+        "source_sentence": "The course of Taxol was initiated in September and successfully wrapped up on November 3, 2019.",
+        "subject_text": "Taxol",
+        "object_text": "November 3, 2019",
+        "relation": "ENDS-ON"
+    },
+    {
+        "source_sentence": "After completing six cycles of doxorubicin and cyclophosphamide, the patient's treatment ended in March 2023.",
+        "subject_text": "doxorubicin and cyclophosphamide",
+        "object_text": "March 2023",
+        "relation": "ENDS-ON"
+    },
+    {
+        "source_sentence": "The patient underwent chemotherapy with carboplatin and gemcitabine until early May 2022.",
+        "subject_text": "carboplatin and gemcitabine",
+        "object_text": "early May 2022",
+        "relation": "ENDS-ON"
+    },
+    {
+        "source_sentence": "Following her final dose of cisplatin on June 10, the chemotherapy regimen concluded.",
+        "subject_text": "cisplatin",
+        "object_text": "June 10",
+        "relation": "ENDS-ON"
+    },
+    {
+        "source_sentence": "The administration of FOLFOX chemotherapy was completed by the end of September 2023.",
+        "subject_text": "FOLFOX chemotherapy",
+        "object_text": "the end of September 2023",
+        "relation": "ENDS-ON"
+    },
+    {
+        "source_sentence": "The patient finished her treatment with taxanes and platinum agents on July 15, 2022.",
+        "subject_text": "taxanes and platinum agents",
+        "object_text": "July 15, 2022",
+        "relation": "ENDS-ON"
+    },
+    {
+        "source_sentence": "After undergoing treatment with FOLFOX, the patient completed their chemotherapy regimen on March 15, 2022.",
+        "subject_text": "FOLFOX",
+        "object_text": "March 15, 2022",
+        "relation": "ENDS-ON"
+    },
+    {
+        "source_sentence": "The last session of the patient's carboplatin and paclitaxel therapy was finalized in early May 2023.",
+        "subject_text": "carboplatin and paclitaxel therapy",
+        "object_text": "early May 2023",
+        "relation": "ENDS-ON"
+    },
+    {
+        "source_sentence": "Following six cycles of doxorubicin, the chemotherapy was concluded on 01/10/2023.",
+        "subject_text": "doxorubicin",
+        "object_text": "01/10/2023",
+        "relation": "ENDS-ON"
+    },
+    {
+        "source_sentence": "The patient has completed their treatment with gemcitabine and cisplatin as of last week, specifically on October 5, 2023.",
+        "subject_text": "gemcitabine and cisplatin",
+        "object_text": "October 5, 2023",
+        "relation": "ENDS-ON"
+    },
+    {
+        "source_sentence": "She received her last infusion of oxaliplatin and 5-FU, marking the end of her chemotherapy course on December 12, 2021.",
+        "subject_text": "oxaliplatin and 5-FU",
+        "object_text": "December 12, 2021",
+        "relation": "ENDS-ON"
+    },
+    {
+        "source_sentence": "The patient completed 6 cycles of FOLFOX chemotherapy, with the last treatment administered on March 15, 2022.",
+        "subject_text": "FOLFOX chemotherapy",
+        "object_text": "March 15, 2022",
+        "relation": "ENDS-ON"
+    },
+    {
+        "source_sentence": "After starting her chemotherapy regimen with Gemcitabine, she finished her last dose on April 22, 2021.",
+        "subject_text": "Gemcitabine",
+        "object_text": "April 22, 2021",
+        "relation": "ENDS-ON"
+    },
+    {
+        "source_sentence": "Patient underwent 4 cycles of Adriamycin and Cyclophosphamide which concluded in late January 2023.",
+        "subject_text": "Adriamycin and Cyclophosphamide",
+        "object_text": "late January 2023",
+        "relation": "ENDS-ON"
+    },
+    {
+        "source_sentence": "Following the administration of Carboplatin and Paclitaxel, her final treatment occurred on 10/11/2022.",
+        "subject_text": "Carboplatin and Paclitaxel",
+        "object_text": "10/11/2022",
+        "relation": "ENDS-ON"
+    },
+    {
+        "source_sentence": "The chemotherapy course consisting of Cisplatin was completed by the end of February 2023.",
+        "subject_text": "Cisplatin",
+        "object_text": "the end of February 2023",
+        "relation": "ENDS-ON"
+    },
+    {
+        "source_sentence": "The patient completed her chemotherapy regimen, which included cisplatin and gemcitabine, by the end of May 2023.",
+        "subject_text": "chemotherapy regimen, which included cisplatin and gemcitabine",
+        "object_text": "the end of May 2023",
+        "relation": "ENDS-ON"
+    },
+    {
+        "source_sentence": "After undergoing eight cycles of FOLFOX treatment, she finished her chemotherapy on July 15, 2022.",
+        "subject_text": "eight cycles of FOLFOX treatment",
+        "object_text": "July 15, 2022",
+        "relation": "ENDS-ON"
+    },
+    {
+        "source_sentence": "The administration of doxorubicin and cyclophosphamide was concluded in early March 2023, marking the end of the patient's chemotherapy.",
+        "subject_text": "doxorubicin and cyclophosphamide",
+        "object_text": "early March 2023",
+        "relation": "ENDS-ON"
+    },
+    {
+        "source_sentence": "Following her treatment with carboplatin and paclitaxel, the patient wrapped up her chemotherapy around the first week of January 2024.",
+        "subject_text": "treatment with carboplatin and paclitaxel",
+        "object_text": "the first week of January 2024",
+        "relation": "ENDS-ON"
+    },
+    {
+        "source_sentence": "The patient received a full course of immunotherapy, which was completed by November 2022, after finishing her chemotherapy sessions.",
+        "subject_text": "chemotherapy sessions",
+        "object_text": "by November 2022",
+        "relation": "ENDS-ON"
+    },
+    {
+        "source_sentence": "The patient received six cycles of cisplatin starting from April 10, 2023, and concluded treatment on June 15, 2023.",
+        "subject_text": "cisplatin",
+        "object_text": "June 15, 2023",
+        "relation": "ENDS-ON"
+    },
+    {
+        "source_sentence": "Following the diagnosis, she began her chemotherapy regimen with doxorubicin, which she finished by the end of March 2023.",
+        "subject_text": "doxorubicin",
+        "object_text": "end of March 2023",
+        "relation": "ENDS-ON"
+    },
+    {
+        "source_sentence": "After the initial treatment with gemcitabine was administered from January 5 to February 20, 2023, the chemotherapy was deemed complete.",
+        "subject_text": "gemcitabine",
+        "object_text": "February 20, 2023",
+        "relation": "ENDS-ON"
+    },
+    {
+        "source_sentence": "The patient's treatment plan included three cycles of paclitaxel, which were completed by November 30, 2023.",
+        "subject_text": "paclitaxel",
+        "object_text": "November 30, 2023",
+        "relation": "ENDS-ON"
+    },
+    {
+        "source_sentence": "She underwent a full course of carboplatin and etoposide, concluding her last session on October 10, 2022.",
+        "subject_text": "carboplatin and etoposide",
+        "object_text": "October 10, 2022",
+        "relation": "ENDS-ON"
+    },
+    {
+        "source_sentence": "The patient completed their regimen of FOLFOX chemotherapy on March 15, 2023, after a series of treatments lasting over several months.",
+        "subject_text": "FOLFOX chemotherapy",
+        "object_text": "March 15, 2023",
+        "relation": "ENDS-ON"
+    },
+    {
+        "source_sentence": "After receiving a total of six cycles of cisplatin from January to March 2023, the patient concluded the chemotherapy treatment as of the end of March.",
+        "subject_text": "cisplatin",
+        "object_text": "the end of March",
+        "relation": "ENDS-ON"
+    },
+    {
+        "source_sentence": "The patient's treatment with gemcitabine was finished on February 28, 2023, marking the end of their chemotherapy plan.",
+        "subject_text": "gemcitabine",
+        "object_text": "February 28, 2023",
+        "relation": "ENDS-ON"
+    },
+    {
+        "source_sentence": "She has undergone treatment with carboplatin and paclitaxel, which wrapped up on July 10, 2023, and she is now in follow-up care.",
+        "subject_text": "carboplatin and paclitaxel",
+        "object_text": "July 10, 2023",
+        "relation": "ENDS-ON"
+    },
+    {
+        "source_sentence": "His chemotherapy with doxorubicin was successfully concluded by April 5, 2023, allowing him to move on to radiation therapy.",
+        "subject_text": "chemotherapy with doxorubicin",
+        "object_text": "April 5, 2023",
+        "relation": "ENDS-ON"
+    },
+    {
+        "source_sentence": "The patient underwent a regimen of FOLFOX for 12 weeks, concluding the treatment in early March 2023.",
+        "subject_text": "FOLFOX",
+        "object_text": "early March 2023",
+        "relation": "ENDS-ON"
+    },
+    {
+        "source_sentence": "After receiving 8 cycles of cisplatin and etoposide, the chemotherapy was finalized by the end of August 2021.",
+        "subject_text": "cisplatin and etoposide",
+        "object_text": "end of August 2021",
+        "relation": "ENDS-ON"
+    },
+    {
+        "source_sentence": "The patient completed their chemotherapy with doxorubicin and cyclophosphamide, which finished in the spring of 2022.",
+        "subject_text": "doxorubicin and cyclophosphamide",
+        "object_text": "spring of 2022",
+        "relation": "ENDS-ON"
+    },
+    {
+        "source_sentence": "Following the treatment of gemcitabine and nab-paclitaxel, the final session was held in mid-November 2020.",
+        "subject_text": "gemcitabine and nab-paclitaxel",
+        "object_text": "mid-November 2020",
+        "relation": "ENDS-ON"
+    },
+    {
+        "source_sentence": "The chemotherapy regimen of carboplatin combined with paclitaxel was completed as of September 15, 2023.",
+        "subject_text": "carboplatin combined with paclitaxel",
+        "object_text": "September 15, 2023",
+        "relation": "ENDS-ON"
+    },
+    {
+        "source_sentence": "The patient completed four cycles of FOLFOX chemotherapy, which concluded in December 2022.",
+        "subject_text": "FOLFOX chemotherapy",
+        "object_text": "December 2022",
+        "relation": "ENDS-ON"
+    },
+    {
+        "source_sentence": "After receiving docetaxel and cisplatin for six weeks, the treatment was finalized on March 15, 2023.",
+        "subject_text": "docetaxel and cisplatin",
+        "object_text": "March 15, 2023",
+        "relation": "ENDS-ON"
+    },
+    {
+        "source_sentence": "She underwent treatment with gemcitabine and carboplatin, which ended in early July 2023.",
+        "subject_text": "gemcitabine and carboplatin",
+        "object_text": "early July 2023",
+        "relation": "ENDS-ON"
+    },
+    {
+        "source_sentence": "The chemotherapy regimen involving paclitaxel and trastuzumab was concluded on 01/20/2023.",
+        "subject_text": "paclitaxel and trastuzumab",
+        "object_text": "01/20/2023",
+        "relation": "ENDS-ON"
+    },
+    {
+        "source_sentence": "Following the administration of three cycles of a combination of doxorubicin and cyclophosphamide, the last session took place in the fall of 2022.",
+        "subject_text": "doxorubicin and cyclophosphamide",
+        "object_text": "the fall of 2022",
+        "relation": "ENDS-ON"
+    },
+    {
+        "source_sentence": "The patient completed six sessions of FOLFOX chemotherapy, which ended in early March 2023.",
+        "subject_text": "FOLFOX chemotherapy",
+        "object_text": "early March 2023",
+        "relation": "ENDS-ON"
+    },
+    {
+        "source_sentence": "Following the last dose of cisplatin on December 15, 2022, the chemotherapy regimen was considered finished.",
+        "subject_text": "cisplatin",
+        "object_text": "December 15, 2022",
+        "relation": "ENDS-ON"
+    },
+    {
+        "source_sentence": "Her treatment with docetaxel and carboplatin wrapped up by the end of September 2021.",
+        "subject_text": "docetaxel and carboplatin",
+        "object_text": "the end of September 2021",
+        "relation": "ENDS-ON"
+    },
+    {
+        "source_sentence": "The administration of gemcitabine concluded on July 30, 2023, after a successful treatment course.",
+        "subject_text": "gemcitabine",
+        "object_text": "July 30, 2023",
+        "relation": "ENDS-ON"
+    },
+    {
+        "source_sentence": "After completing three cycles of rituximab, the therapy was officially concluded in mid-February 2022.",
+        "subject_text": "rituximab",
+        "object_text": "mid-February 2022",
+        "relation": "ENDS-ON"
+    },
+    {
+        "source_sentence": "The patient completed her fourth cycle of FOLFOX chemotherapy and finished treatment by the end of March 2022.",
+        "subject_text": "FOLFOX chemotherapy",
+        "object_text": "the end of March 2022",
+        "relation": "ENDS-ON"
+    },
+    {
+        "source_sentence": "Following the diagnosis, she underwent 12 weeks of doxorubicin therapy which concluded on May 10, 2023.",
+        "subject_text": "doxorubicin therapy",
+        "object_text": "May 10, 2023",
+        "relation": "ENDS-ON"
+    },
+    {
+        "source_sentence": "After receiving a total of six cycles of cisplatin from January through February 2021, the treatment was officially completed on the 28th of February.",
+        "subject_text": "cisplatin",
+        "object_text": "the 28th of February",
+        "relation": "ENDS-ON"
+    },
+    {
+        "source_sentence": "The patient was treated with paclitaxel and carboplatin for a total of 18 weeks, concluding the regimen on June 30, 2022.",
+        "subject_text": "paclitaxel and carboplatin",
+        "object_text": "June 30, 2022",
+        "relation": "ENDS-ON"
+    },
+    {
+        "source_sentence": "Chemotherapy using gemcitabine was administered for a duration of three months, wrapping up the treatment course in early September 2021.",
+        "subject_text": "gemcitabine",
+        "object_text": "early September 2021",
+        "relation": "ENDS-ON"
+    },
+    {
+        "source_sentence": "The patient completed her treatment with cisplatin and gemcitabine on May 15, 2022, and is now in the follow-up phase.",
+        "subject_text": "cisplatin and gemcitabine",
+        "object_text": "May 15, 2022",
+        "relation": "ENDS-ON"
+    },
+    {
+        "source_sentence": "Following six rounds of doxorubicin therapy, the last session was on June 30, 2021.",
+        "subject_text": "doxorubicin therapy",
+        "object_text": "June 30, 2021",
+        "relation": "ENDS-ON"
+    },
+    {
+        "source_sentence": "After completing the taxane-based chemotherapy regimen, which lasted until March 10, 2023, the patient is now symptom-free.",
+        "subject_text": "taxane-based chemotherapy regimen",
+        "object_text": "March 10, 2023",
+        "relation": "ENDS-ON"
+    },
+    {
+        "source_sentence": "The patient's last administration of FOLFOX was noted on April 25, 2022, marking the end of her treatment course.",
+        "subject_text": "FOLFOX",
+        "object_text": "April 25, 2022",
+        "relation": "ENDS-ON"
+    },
+    {
+        "source_sentence": "Postoperative treatment with carboplatin was concluded by December 15, 2020, after which the patient began her recovery process.",
+        "subject_text": "carboplatin",
+        "object_text": "December 15, 2020",
+        "relation": "ENDS-ON"
+    },
+    {
+        "source_sentence": "The patient underwent a regimen of Cisplatin and Etoposide starting on March 1, 2022, and concluded the treatment on May 15, 2022.",
+        "subject_text": "Cisplatin and Etoposide",
+        "object_text": "May 15, 2022",
+        "relation": "ENDS-ON"
+    },
+    {
+        "source_sentence": "After a series of treatments with Gemcitabine, the patient completed her chemotherapy on the 10th of October, 2021.",
+        "subject_text": "Gemcitabine",
+        "object_text": "10th of October, 2021",
+        "relation": "ENDS-ON"
+    },
+    {
+        "source_sentence": "Following 6 cycles of FOLFOX, the chemotherapy was officially marked as completed on February 28, 2023.",
+        "subject_text": "FOLFOX",
+        "object_text": "February 28, 2023",
+        "relation": "ENDS-ON"
+    },
+    {
+        "source_sentence": "Patient received a combination of Adriamycin and Cyclophosphamide, which she finished by mid-June 2020.",
+        "subject_text": "Adriamycin and Cyclophosphamide",
+        "object_text": "mid-June 2020",
+        "relation": "ENDS-ON"
+    },
+    {
+        "source_sentence": "The chemotherapy regimen consisting of Paclitaxel and Carboplatin was completed successfully on July 1, 2022.",
+        "subject_text": "Paclitaxel and Carboplatin",
+        "object_text": "July 1, 2022",
+        "relation": "ENDS-ON"
+    },
+    {
+        "source_sentence": "The patient underwent a regimen of Cisplatin and Gemcitabine for 12 weeks, which concluded at the end of March 2023.",
+        "subject_text": "Cisplatin and Gemcitabine",
+        "object_text": "end of March 2023",
+        "relation": "ENDS-ON"
+    },
+    {
+        "source_sentence": "Following the administration of Folfox for 8 cycles, treatment was officially marked as complete on September 15, 2022.",
+        "subject_text": "Folfox",
+        "object_text": "September 15, 2022",
+        "relation": "ENDS-ON"
+    },
+    {
+        "source_sentence": "The patient completed their treatment with Adriamycin and Cytoxan over a period of 6 months, wrapping up in February 2023.",
+        "subject_text": "Adriamycin and Cytoxan",
+        "object_text": "February 2023",
+        "relation": "ENDS-ON"
+    },
+    {
+        "source_sentence": "After 10 sessions of Carboplatin therapy, the chemotherapy was concluded by the first week of December 2021.",
+        "subject_text": "Carboplatin",
+        "object_text": "first week of December 2021",
+        "relation": "ENDS-ON"
+    },
+    {
+        "source_sentence": "The patient was treated with Paclitaxel for 6 weeks, and the final session was held on April 30, 2023.",
+        "subject_text": "Paclitaxel",
+        "object_text": "April 30, 2023",
+        "relation": "ENDS-ON"
+    },
+    {
+        "source_sentence": "After undergoing four cycles of Cisplatin, the patient successfully completed the chemotherapy treatment on October 5, 2023.",
+        "subject_text": "Cisplatin",
+        "object_text": "October 5, 2023",
+        "relation": "ENDS-ON"
+    },
+    {
+        "source_sentence": "The administration of FOLFOX was concluded on the last day of treatment, which was noted to be April 15, 2023.",
+        "subject_text": "FOLFOX",
+        "object_text": "April 15, 2023",
+        "relation": "ENDS-ON"
+    },
+    {
+        "source_sentence": "Following an intensive regimen of doxorubicin and cyclophosphamide, the patient finished their chemotherapy on the 12th of July.",
+        "subject_text": "doxorubicin and cyclophosphamide",
+        "object_text": "12th of July",
+        "relation": "ENDS-ON"
+    },
+    {
+        "source_sentence": "She completed her treatment with Gemcitabine and Carboplatin, which ended on September 30, 2022, after six weeks of administration.",
+        "subject_text": "Gemcitabine and Carboplatin",
+        "object_text": "September 30, 2022",
+        "relation": "ENDS-ON"
+    },
+    {
+        "source_sentence": "The last cycle of Abraxane was administered, with treatment concluding on May 10, 2023.",
+        "subject_text": "Abraxane",
+        "object_text": "May 10, 2023",
+        "relation": "ENDS-ON"
+    },
+    {
+        "source_sentence": "The patient underwent a regimen of cisplatin and gemcitabine, which concluded on March 15, 2022.",
+        "subject_text": "cisplatin and gemcitabine",
+        "object_text": "March 15, 2022",
+        "relation": "ENDS-ON"
+    },
+    {
+        "source_sentence": "After completing four cycles of FOLFOX chemotherapy, the treatment was finished by the end of June 2021.",
+        "subject_text": "FOLFOX chemotherapy",
+        "object_text": "the end of June 2021",
+        "relation": "ENDS-ON"
+    },
+    {
+        "source_sentence": "Following the administration of doxorubicin and cyclophosphamide, the chemotherapy treatment ended around October 2020.",
+        "subject_text": "doxorubicin and cyclophosphamide",
+        "object_text": "around October 2020",
+        "relation": "ENDS-ON"
+    },
+    {
+        "source_sentence": "The patient successfully completed a six-month course of trastuzumab therapy, which wrapped up in early February 2023.",
+        "subject_text": "trastuzumab therapy",
+        "object_text": "early February 2023",
+        "relation": "ENDS-ON"
+    },
+    {
+        "source_sentence": "She was treated with carboplatin and paclitaxel, and the last dose was administered on November 5, 2019.",
+        "subject_text": "carboplatin and paclitaxel",
+        "object_text": "November 5, 2019",
+        "relation": "ENDS-ON"
+    },
+    {
+        "source_sentence": "The patient completed her treatment with Carboplatin on May 5, 2023, after four cycles, which were well tolerated with minimal side effects.",
+        "subject_text": "Carboplatin",
+        "object_text": "May 5, 2023",
+        "relation": "ENDS-ON"
+    },
+    {
+        "source_sentence": "Following the administration of Rituximab for Non-Hodgkin's lymphoma, the last dose was given on June 20, 2023, marking the end of the treatment plan.",
+        "subject_text": "Rituximab",
+        "object_text": "June 20, 2023",
+        "relation": "ENDS-ON"
+    },
+    {
+        "source_sentence": "In the case of Ms. Smith, her chemotherapy regimen of Paclitaxel was concluded on 03/15/2023, after a total of six sessions were performed.",
+        "subject_text": "Paclitaxel",
+        "object_text": "03/15/2023",
+        "relation": "ENDS-ON"
+    },
+    {
+        "source_sentence": "The patient received a total of 12 cycles of Cisplatin, with the final treatment administered on December 1, 2022.",
+        "subject_text": "Cisplatin",
+        "object_text": "December 1, 2022",
+        "relation": "ENDS-ON"
+    },
+    {
+        "source_sentence": "After a rigorous schedule of Etoposide, the treatment ended successfully on April 10, 2023, following the completion of the 10th cycle.",
+        "subject_text": "Etoposide",
+        "object_text": "April 10, 2023",
+        "relation": "ENDS-ON"
+    },
+    {
+        "source_sentence": "The patient completed her treatment with docetaxel and cisplatin on March 15, 2023, after experiencing a good response to the chemotherapy regimen.",
+        "subject_text": "docetaxel and cisplatin",
+        "object_text": "March 15, 2023",
+        "relation": "ENDS-ON"
+    },
+    {
+        "source_sentence": "Following a series of eight cycles of pemetrexed, the chemotherapy was concluded in early February 2023, allowing the patient to proceed to maintenance therapy.",
+        "subject_text": "pemetrexed",
+        "object_text": "early February 2023",
+        "relation": "ENDS-ON"
+    },
+    {
+        "source_sentence": "After administering a regimen of FOLFOX for six months, the treatment officially ended on July 20, 2023, with a follow-up appointment scheduled for next month.",
+        "subject_text": "FOLFOX",
+        "object_text": "July 20, 2023",
+        "relation": "ENDS-ON"
+    },
+    {
+        "source_sentence": "The oncologist noted that the patient finished receiving her chemotherapy sessions with cyclophosphamide and doxorubicin by the end of April 2023.",
+        "subject_text": "cyclophosphamide and doxorubicin",
+        "object_text": "end of April 2023",
+        "relation": "ENDS-ON"
+    },
+    {
+        "source_sentence": "Chemotherapy with carboplatin and paclitaxel was wrapped up by October 2023, which has shown promising results in her recent scans.",
+        "subject_text": "carboplatin and paclitaxel",
+        "object_text": "October 2023",
+        "relation": "ENDS-ON"
+    },
+    {
+        "source_sentence": "The patient completed her chemotherapy regimen of doxorubicin and cyclophosphamide in early September 2022.",
+        "subject_text": "doxorubicin and cyclophosphamide",
+        "object_text": "early September 2022",
+        "relation": "ENDS-ON"
+    },
+    {
+        "source_sentence": "Following four cycles of FOLFOX chemotherapy, the treatment was concluded on March 15, 2023.",
+        "subject_text": "FOLFOX chemotherapy",
+        "object_text": "March 15, 2023",
+        "relation": "ENDS-ON"
+    },
+    {
+        "source_sentence": "After undergoing a total of six sessions of carboplatin and paclitaxel, the chemotherapy ended in mid-July 2021.",
+        "subject_text": "carboplatin and paclitaxel",
+        "object_text": "mid-July 2021",
+        "relation": "ENDS-ON"
+    },
+    {
+        "source_sentence": "The chemotherapy with gemcitabine was administered until the end of December 2020.",
+        "subject_text": "gemcitabine",
+        "object_text": "the end of December 2020",
+        "relation": "ENDS-ON"
+    },
+    {
+        "source_sentence": "He received his last dose of pemetrexed and cisplatin on February 28, 2023, marking the end of his treatment.",
+        "subject_text": "pemetrexed and cisplatin",
+        "object_text": "February 28, 2023",
+        "relation": "ENDS-ON"
+    },
+    {
+        "source_sentence": "The patient completed their final round of cisplatin on August 30, 2023.",
+        "subject_text": "cisplatin",
+        "object_text": "August 30, 2023",
+        "relation": "ENDS-ON"
+    },
+    {
+        "source_sentence": "Following a rigorous treatment plan, she finished her last cycle of doxorubicin by the end of March 2023.",
+        "subject_text": "doxorubicin",
+        "object_text": "the end of March 2023",
+        "relation": "ENDS-ON"
+    },
+    {
+        "source_sentence": "After a series of treatments, the administration of gemcitabine concluded on July 15th.",
+        "subject_text": "gemcitabine",
+        "object_text": "July 15th",
+        "relation": "ENDS-ON"
+    },
+    {
+        "source_sentence": "He underwent four sessions of FOLFOX, with the last treatment occurring on June 10, 2023.",
+        "subject_text": "FOLFOX",
+        "object_text": "June 10, 2023",
+        "relation": "ENDS-ON"
+    },
+    {
+        "source_sentence": "The regimen of pemetrexed was completed last week, specifically on October 5, 2023.",
+        "subject_text": "pemetrexed",
+        "object_text": "October 5, 2023",
+        "relation": "ENDS-ON"
+    },
+    {
+        "source_sentence": "The patient underwent a regimen of Carboplatin and Paclitaxel, which concluded on 11/15/2022 after six cycles.",
+        "subject_text": "Carboplatin and Paclitaxel",
+        "object_text": "11/15/2022",
+        "relation": "ENDS-ON"
+    },
+    {
+        "source_sentence": "Following her diagnosis, she started Gemcitabine treatment that lasted until March 2023.",
+        "subject_text": "Gemcitabine treatment",
+        "object_text": "March 2023",
+        "relation": "ENDS-ON"
+    },
+    {
+        "source_sentence": "As part of her cancer therapy, the patient completed a course of Doxorubicin on 04/10/2023, which lasted for 12 weeks.",
+        "subject_text": "Doxorubicin",
+        "object_text": "04/10/2023",
+        "relation": "ENDS-ON"
+    },
+    {
+        "source_sentence": "The chemotherapy treatment with 5-Fluorouracil was finalized in early January 2023 after 8 sessions.",
+        "subject_text": "5-Fluorouracil",
+        "object_text": "early January 2023",
+        "relation": "ENDS-ON"
+    },
+    {
+        "source_sentence": "After receiving her Cisplatin regimen, the treatment officially ended on 7/22/2023.",
+        "subject_text": "Cisplatin regimen",
+        "object_text": "7/22/2023",
+        "relation": "ENDS-ON"
+    },
+    {
+        "source_sentence": "The patient completed her treatment with Gemcitabine on May 15, 2022, after receiving six cycles.",
+        "subject_text": "Gemcitabine",
+        "object_text": "May 15, 2022",
+        "relation": "ENDS-ON"
+    },
+    {
+        "source_sentence": "After 12 weeks of Cisplatin administration, the chemotherapy concluded on December 1, 2021.",
+        "subject_text": "Cisplatin",
+        "object_text": "December 1, 2021",
+        "relation": "ENDS-ON"
+    },
+    {
+        "source_sentence": "The last dose of FOLFOX was administered on March 30, 2023, marking the end of the treatment cycle.",
+        "subject_text": "FOLFOX",
+        "object_text": "March 30, 2023",
+        "relation": "ENDS-ON"
+    },
+    {
+        "source_sentence": "Patient underwent a regimen of Paclitaxel and Carboplatin, which concluded in early April 2023.",
+        "subject_text": "Paclitaxel and Carboplatin",
+        "object_text": "early April 2023",
+        "relation": "ENDS-ON"
+    },
+    {
+        "source_sentence": "Following a series of 8 cycles of Etoposide, the treatment officially ended on July 22, 2023.",
+        "subject_text": "Etoposide",
+        "object_text": "July 22, 2023",
+        "relation": "ENDS-ON"
+    },
+    {
+        "source_sentence": "After undergoing 4 cycles of FOLFOX chemotherapy, the patient finished treatment on May 15, 2022, and is now in remission.",
+        "subject_text": "FOLFOX chemotherapy",
+        "object_text": "May 15, 2022",
+        "relation": "ENDS-ON"
+    },
+    {
+        "source_sentence": "The patient received carboplatin on a weekly basis for 6 weeks, concluding the regimen on August 10, 2021.",
+        "subject_text": "carboplatin",
+        "object_text": "August 10, 2021",
+        "relation": "ENDS-ON"
+    },
+    {
+        "source_sentence": "Following the completion of her paclitaxel treatment, which lasted from January 5 to February 20, 2023, she reported significant improvement in symptoms.",
+        "subject_text": "paclitaxel treatment",
+        "object_text": "February 20, 2023",
+        "relation": "ENDS-ON"
+    },
+    {
+        "source_sentence": "The last dose of doxorubicin was administered on July 12, 2023, marking the end of the patient's chemotherapy course that began in June.",
+        "subject_text": "doxorubicin",
+        "object_text": "July 12, 2023",
+        "relation": "ENDS-ON"
+    },
+    {
+        "source_sentence": "Chemotherapy with cisplatin was administered over a 3-month period, concluding on March 30, 2023, after which the patient underwent follow-up scans.",
+        "subject_text": "cisplatin",
+        "object_text": "March 30, 2023",
+        "relation": "ENDS-ON"
+    },
+    {
+        "source_sentence": "The patient received a regimen of doxorubicin and cyclophosphamide, completing the treatment by the end of May 2022.",
+        "subject_text": "doxorubicin and cyclophosphamide",
+        "object_text": "the end of May 2022",
+        "relation": "ENDS-ON"
+    },
+    {
+        "source_sentence": "Following her diagnosis, she underwent 4 cycles of gemcitabine which concluded in early March 2023.",
+        "subject_text": "gemcitabine",
+        "object_text": "early March 2023",
+        "relation": "ENDS-ON"
+    },
+    {
+        "source_sentence": "After starting treatment with paclitaxel and carboplatin in February 2021, the last session was held on March 15, 2021.",
+        "subject_text": "paclitaxel and carboplatin",
+        "object_text": "March 15, 2021",
+        "relation": "ENDS-ON"
+    },
+    {
+        "source_sentence": "She finished her chemotherapy with cisplatin and etoposide, wrapping up the sessions by the second week of July 2022.",
+        "subject_text": "cisplatin and etoposide",
+        "object_text": "the second week of July 2022",
+        "relation": "ENDS-ON"
+    },
+    {
+        "source_sentence": "The oncologist reported that the patient completed 6 weeks of oral capecitabine, which was finalized by the middle of January 2023.",
+        "subject_text": "oral capecitabine",
+        "object_text": "the middle of January 2023",
+        "relation": "ENDS-ON"
+    },
+    {
+        "source_sentence": "The patient completed a course of Gemcitabine on April 15, 2023, after six cycles of treatment.",
+        "subject_text": "Gemcitabine",
+        "object_text": "April 15, 2023",
+        "relation": "ENDS-ON"
+    },
+    {
+        "source_sentence": "After receiving the final dose of Cisplatin on March 10, 2023, the patient reported significant improvement in symptoms.",
+        "subject_text": "Cisplatin",
+        "object_text": "March 10, 2023",
+        "relation": "ENDS-ON"
+    },
+    {
+        "source_sentence": "The chemotherapy regimen consisting of Etoposide was scheduled to conclude by the end of last month, specifically on February 28, 2023.",
+        "subject_text": "Etoposide",
+        "object_text": "February 28, 2023",
+        "relation": "ENDS-ON"
+    },
+    {
+        "source_sentence": "Following the administration of Carboplatin, the treatment protocol was officially marked as complete on 12/01/2023.",
+        "subject_text": "Carboplatin",
+        "object_text": "12/01/2023",
+        "relation": "ENDS-ON"
+    },
+    {
+        "source_sentence": "The patient received a total of four cycles of Abraxane, which concluded on July 22, 2023.",
+        "subject_text": "Abraxane",
+        "object_text": "July 22, 2023",
+        "relation": "ENDS-ON"
+    },
+    {
+        "source_sentence": "The patient completed a regimen of cisplatin and gemcitabine chemotherapy on March 15, 2022, following her diagnosis of lung cancer.",
+        "subject_text": "cisplatin and gemcitabine chemotherapy",
+        "object_text": "March 15, 2022",
+        "relation": "ENDS-ON"
+    },
+    {
+        "source_sentence": "After undergoing six cycles of doxorubicin starting in November 2021, the chemotherapy was concluded on February 10, 2022.",
+        "subject_text": "doxorubicin",
+        "object_text": "February 10, 2022",
+        "relation": "ENDS-ON"
+    },
+    {
+        "source_sentence": "She received her final dose of carboplatin and paclitaxel on July 3, 2020, marking the end of her treatment for ovarian cancer.",
+        "subject_text": "carboplatin and paclitaxel",
+        "object_text": "July 3, 2020",
+        "relation": "ENDS-ON"
+    },
+    {
+        "source_sentence": "The patient was treated with etoposide and cisplatin for three months, which concluded in early May 2021.",
+        "subject_text": "etoposide and cisplatin",
+        "object_text": "early May 2021",
+        "relation": "ENDS-ON"
+    },
+    {
+        "source_sentence": "Following the administration of 12 weeks of pemetrexed, the chemotherapy treatment was officially finished on December 1, 2019.",
+        "subject_text": "pemetrexed",
+        "object_text": "December 1, 2019",
+        "relation": "ENDS-ON"
+    },
+    {
+        "source_sentence": "The patient completed four cycles of FOLFOX chemotherapy, which ended in July 2022.",
+        "subject_text": "FOLFOX chemotherapy",
+        "object_text": "July 2022",
+        "relation": "ENDS-ON"
+    },
+    {
+        "source_sentence": "After receiving six doses of docetaxel and cyclophosphamide, the treatment regimen concluded in late March 2023.",
+        "subject_text": "docetaxel and cyclophosphamide",
+        "object_text": "late March 2023",
+        "relation": "ENDS-ON"
+    },
+    {
+        "source_sentence": "Following the last administration of carboplatin and pemetrexed, the chemotherapy phase was officially marked as completed on January 15, 2023.",
+        "subject_text": "carboplatin and pemetrexed",
+        "object_text": "January 15, 2023",
+        "relation": "ENDS-ON"
+    },
+    {
+        "source_sentence": "The patient underwent a comprehensive treatment plan, concluding the final round of gemcitabine therapy in the first week of April 2023.",
+        "subject_text": "gemcitabine therapy",
+        "object_text": "first week of April 2023",
+        "relation": "ENDS-ON"
+    },
+    {
+        "source_sentence": "She has successfully completed her treatment with cisplatin and etoposide, which wrapped up by the end of August 2023.",
+        "subject_text": "cisplatin and etoposide",
+        "object_text": "end of August 2023",
+        "relation": "ENDS-ON"
+    },
+    {
+        "source_sentence": "The patient completed a regimen of doxorubicin and cyclophosphamide on March 15, 2022.",
+        "subject_text": "doxorubicin and cyclophosphamide",
+        "object_text": "March 15, 2022",
+        "relation": "ENDS-ON"
+    },
+    {
+        "source_sentence": "Following 12 weeks of cisplatin therapy, the last treatment session occurred in early January 2023.",
+        "subject_text": "cisplatin therapy",
+        "object_text": "early January 2023",
+        "relation": "ENDS-ON"
+    },
+    {
+        "source_sentence": "After receiving six cycles of gemcitabine, the patient's treatment ended in late September 2021.",
+        "subject_text": "gemcitabine",
+        "object_text": "late September 2021",
+        "relation": "ENDS-ON"
+    },
+    {
+        "source_sentence": "The patient underwent 10 rounds of carboplatin administration, concluding on February 20, 2020.",
+        "subject_text": "carboplatin administration",
+        "object_text": "February 20, 2020",
+        "relation": "ENDS-ON"
+    },
+    {
+        "source_sentence": "In July 2022, the patient finished their course of paclitaxel and trastuzumab after a total of 18 weeks of treatment.",
+        "subject_text": "paclitaxel and trastuzumab",
+        "object_text": "July 2022",
+        "relation": "ENDS-ON"
+    },
+    {
+        "source_sentence": "The patient received four cycles of Carboplatin and Gemcitabine, concluding treatment on March 15, 2023.",
+        "subject_text": "Carboplatin and Gemcitabine",
+        "object_text": "March 15, 2023",
+        "relation": "ENDS-ON"
+    },
+    {
+        "source_sentence": "After completing the 6-week regimen of Cisplatin, the patient wrapped up treatment by the end of June 2023.",
+        "subject_text": "Cisplatin",
+        "object_text": "end of June 2023",
+        "relation": "ENDS-ON"
+    },
+    {
+        "source_sentence": "Following the initiation of the FOLFOX protocol, the chemotherapy course was completed on 10/01/2022.",
+        "subject_text": "FOLFOX protocol",
+        "object_text": "10/01/2022",
+        "relation": "ENDS-ON"
+    },
+    {
+        "source_sentence": "The patient underwent a total of 12 weeks of Paclitaxel therapy, which concluded on April 30, 2023.",
+        "subject_text": "Paclitaxel therapy",
+        "object_text": "April 30, 2023",
+        "relation": "ENDS-ON"
+    },
+    {
+        "source_sentence": "The chemotherapy treatment with Doxorubicin was finished by the time of the follow-up appointment on August 12, 2023.",
+        "subject_text": "Doxorubicin",
+        "object_text": "August 12, 2023",
+        "relation": "ENDS-ON"
+    },
+    {
+        "source_sentence": "The patient completed her chemotherapy regimen with doxorubicin and cyclophosphamide, which ended in June 2022.",
+        "subject_text": "doxorubicin and cyclophosphamide",
+        "object_text": "June 2022",
+        "relation": "ENDS-ON"
+    },
+    {
+        "source_sentence": "After undergoing 12 weeks of a carboplatin and paclitaxel combination, the treatment concluded successfully in mid-January 2023.",
+        "subject_text": "carboplatin and paclitaxel",
+        "object_text": "mid-January 2023",
+        "relation": "ENDS-ON"
+    },
+    {
+        "source_sentence": "He finished his chemotherapy with gemcitabine on 15th March 2023, and follow-up scans will be scheduled shortly thereafter.",
+        "subject_text": "gemcitabine",
+        "object_text": "15th March 2023",
+        "relation": "ENDS-ON"
+    },
+    {
+        "source_sentence": "The oncology team reports that the patient has successfully completed her six cycles of cisplatin, with the last treatment date marked as early February 2023.",
+        "subject_text": "cisplatin",
+        "object_text": "early February 2023",
+        "relation": "ENDS-ON"
+    },
+    {
+        "source_sentence": "Following a rigorous treatment plan that included 8 sessions of 5-fluorouracil, the chemotherapy ended in the last week of September 2023.",
+        "subject_text": "5-fluorouracil",
+        "object_text": "last week of September 2023",
+        "relation": "ENDS-ON"
+    },
+    {
+        "source_sentence": "The patient received doxorubicin and cyclophosphamide chemotherapy for a total of 4 cycles, which concluded in September 2022.",
+        "subject_text": "doxorubicin and cyclophosphamide chemotherapy",
+        "object_text": "September 2022",
+        "relation": "ENDS-ON"
+    },
+    {
+        "source_sentence": "After completing 8 cycles of the combination therapy with carboplatin and gemcitabine, the treatment officially ended in early February 2023.",
+        "subject_text": "carboplatin and gemcitabine",
+        "object_text": "early February 2023",
+        "relation": "ENDS-ON"
+    },
+    {
+        "source_sentence": "She finished her chemotherapy regimen, consisting of 12 sessions of paclitaxel, in mid-July 2023.",
+        "subject_text": "paclitaxel",
+        "object_text": "mid-July 2023",
+        "relation": "ENDS-ON"
+    },
+    {
+        "source_sentence": "Following the last administration of FOLFOX on March 15, 2023, the patient's chemotherapy treatment has officially ended.",
+        "subject_text": "FOLFOX",
+        "object_text": "March 15, 2023",
+        "relation": "ENDS-ON"
+    },
+    {
+        "source_sentence": "The patient underwent a regimen of bevacizumab and capecitabine, completing the final cycle in November 2023.",
+        "subject_text": "bevacizumab and capecitabine",
+        "object_text": "November 2023",
+        "relation": "ENDS-ON"
+    },
+    {
+        "source_sentence": "The patient received a total of six cycles of Cisplatin from January 15, 2023, to March 1, 2023, after which the treatment was concluded.",
+        "subject_text": "Cisplatin",
+        "object_text": "March 1, 2023",
+        "relation": "ENDS-ON"
+    },
+    {
+        "source_sentence": "Following the patient's diagnosis, a regimen of Docetaxel was administered, finishing on July 10, 2023.",
+        "subject_text": "Docetaxel",
+        "object_text": "July 10, 2023",
+        "relation": "ENDS-ON"
+    },
+    {
+        "source_sentence": "The oncologist reported that the patient has completed their final dose of Carboplatin as of last Friday, which was June 23, 2023.",
+        "subject_text": "Carboplatin",
+        "object_text": "June 23, 2023",
+        "relation": "ENDS-ON"
+    },
+    {
+        "source_sentence": "The chemotherapy cycle with Gemcitabine commenced on April 5, 2023, and officially ended on May 30, 2023.",
+        "subject_text": "Gemcitabine",
+        "object_text": "May 30, 2023",
+        "relation": "ENDS-ON"
+    },
+    {
+        "source_sentence": "After a thorough evaluation, the patient has concluded their treatment with Paclitaxel on September 15, 2023.",
+        "subject_text": "Paclitaxel",
+        "object_text": "September 15, 2023",
+        "relation": "ENDS-ON"
+    },
+    {
+        "source_sentence": "After completing her regimen of carboplatin and paclitaxel, the patient finished chemotherapy on March 10, 2023.",
+        "subject_text": "carboplatin and paclitaxel",
+        "object_text": "March 10, 2023",
+        "relation": "ENDS-ON"
+    },
+    {
+        "source_sentence": "The patient underwent a total of 12 cycles of FOLFOX and successfully concluded her treatment in late August 2023.",
+        "subject_text": "FOLFOX",
+        "object_text": "late August 2023",
+        "relation": "ENDS-ON"
+    },
+    {
+        "source_sentence": "Following 8 weeks of continuous infusion with 5-fluorouracil, the chemotherapy was deemed complete as of February 15.",
+        "subject_text": "5-fluorouracil",
+        "object_text": "February 15",
+        "relation": "ENDS-ON"
+    },
+    {
+        "source_sentence": "The patient has finished her chemotherapy regimen with doxorubicin and cyclophosphamide by the end of last year.",
+        "subject_text": "doxorubicin and cyclophosphamide",
+        "object_text": "the end of last year",
+        "relation": "ENDS-ON"
+    },
+    {
+        "source_sentence": "After a rigorous treatment schedule, she completed her chemotherapy with cisplatin on May 5, 2022.",
+        "subject_text": "cisplatin",
+        "object_text": "May 5, 2022",
+        "relation": "ENDS-ON"
+    },
+    {
+        "source_sentence": "After a thorough evaluation, the patient was started on a regimen of Adriamycin and Cytoxan, which was successfully completed by the end of May 2022.",
+        "subject_text": "Adriamycin and Cytoxan",
+        "object_text": "the end of May 2022",
+        "relation": "ENDS-ON"
+    },
+    {
+        "source_sentence": "The chemotherapy treatment with Gemcitabine lasted for a total of 12 weeks, concluding on March 1, 2023.",
+        "subject_text": "Gemcitabine",
+        "object_text": "March 1, 2023",
+        "relation": "ENDS-ON"
+    },
+    {
+        "source_sentence": "Following her diagnosis, the patient underwent treatment with Cisplatin and Etoposide, which was completed on 15th June 2023.",
+        "subject_text": "Cisplatin and Etoposide",
+        "object_text": "15th June 2023",
+        "relation": "ENDS-ON"
+    },
+    {
+        "source_sentence": "He received a total of 4 cycles of FOLFOX chemotherapy, and the last cycle ended in early September 2022.",
+        "subject_text": "FOLFOX chemotherapy",
+        "object_text": "early September 2022",
+        "relation": "ENDS-ON"
+    },
+    {
+        "source_sentence": "The oncologist reported that the patient finished her course of Carboplatin and Paclitaxel, concluding the treatment regimen on December 10, 2021.",
+        "subject_text": "Carboplatin and Paclitaxel",
+        "object_text": "December 10, 2021",
+        "relation": "ENDS-ON"
+    },
+    {
+        "source_sentence": "The patient underwent a regimen of cisplatin and gemcitabine, completing treatment by the end of March 2022.",
+        "subject_text": "cisplatin and gemcitabine",
+        "object_text": "the end of March 2022",
+        "relation": "ENDS-ON"
+    },
+    {
+        "source_sentence": "After five cycles of doxorubicin, the patient finished chemotherapy on July 10, 2021.",
+        "subject_text": "doxorubicin",
+        "object_text": "July 10, 2021",
+        "relation": "ENDS-ON"
+    },
+    {
+        "source_sentence": "The chemotherapy treatment with folic acid, fluorouracil, and leucovorin was completed as of February 15, 2023.",
+        "subject_text": "folic acid, fluorouracil, and leucovorin",
+        "object_text": "February 15, 2023",
+        "relation": "ENDS-ON"
+    },
+    {
+        "source_sentence": "Following a course of taxane-based chemotherapy, the patient's last treatment session occurred in mid-August 2022.",
+        "subject_text": "taxane-based chemotherapy",
+        "object_text": "mid-August 2022",
+        "relation": "ENDS-ON"
+    },
+    {
+        "source_sentence": "She completed her treatment with methotrexate and vincristine by the end of the previous year, specifically December 30, 2021.",
+        "subject_text": "methotrexate and vincristine",
+        "object_text": "December 30, 2021",
+        "relation": "ENDS-ON"
+    },
+    {
+        "source_sentence": "The patient completed a regimen of doxorubicin and cyclophosphamide on March 15, 2022, after undergoing treatment for breast cancer.",
+        "subject_text": "doxorubicin and cyclophosphamide",
+        "object_text": "March 15, 2022",
+        "relation": "ENDS-ON"
+    },
+    {
+        "source_sentence": "Following four cycles of FOLFOX chemotherapy, the last treatment session concluded in late September 2021.",
+        "subject_text": "FOLFOX chemotherapy",
+        "object_text": "late September 2021",
+        "relation": "ENDS-ON"
+    },
+    {
+        "source_sentence": "The administration of gemcitabine started on January 10, 2023, and ended exactly two months later, on March 10, 2023.",
+        "subject_text": "gemcitabine",
+        "object_text": "March 10, 2023",
+        "relation": "ENDS-ON"
+    },
+    {
+        "source_sentence": "She received her final dose of carboplatin on December 1, 2020, after completing a full six-cycle treatment plan.",
+        "subject_text": "carboplatin",
+        "object_text": "December 1, 2020",
+        "relation": "ENDS-ON"
+    },
+    {
+        "source_sentence": "After six weeks of continuous administration of pemetrexed, the treatment course was completed on April 15, 2021.",
+        "subject_text": "pemetrexed",
+        "object_text": "April 15, 2021",
+        "relation": "ENDS-ON"
+    },
+    {
+        "source_sentence": "The patient received a complete course of Adriamycin and Cytoxan, ending on 03/15/2022.",
+        "subject_text": "Adriamycin and Cytoxan",
+        "object_text": "03/15/2022",
+        "relation": "ENDS-ON"
+    },
+    {
+        "source_sentence": "Following six cycles of gemcitabine, treatment concluded successfully on January 10, 2023.",
+        "subject_text": "gemcitabine",
+        "object_text": "January 10, 2023",
+        "relation": "ENDS-ON"
+    },
+    {
+        "source_sentence": "The chemotherapy regimen consisting of Taxol was administered from September 1 to November 30, 2021, with the last dose given on the latter date.",
+        "subject_text": "Taxol",
+        "object_text": "November 30, 2021",
+        "relation": "ENDS-ON"
+    },
+    {
+        "source_sentence": "Patient was on a combination of cisplatin and etoposide, which wrapped up on 02/28/2023.",
+        "subject_text": "cisplatin and etoposide",
+        "object_text": "02/28/2023",
+        "relation": "ENDS-ON"
+    },
+    {
+        "source_sentence": "As part of the treatment plan, the patient completed the final cycle of 5-FU chemotherapy on March 5, 2023.",
+        "subject_text": "5-FU chemotherapy",
+        "object_text": "March 5, 2023",
+        "relation": "ENDS-ON"
+    },
+    {
+        "source_sentence": "The patient completed a course of doxorubicin on November 30, 2022, after receiving the last dose a week prior.",
+        "subject_text": "doxorubicin",
+        "object_text": "November 30, 2022",
+        "relation": "ENDS-ON"
+    },
+    {
+        "source_sentence": "Following 12 weeks of gemcitabine therapy, the treatment concluded at the end of June 2023.",
+        "subject_text": "gemcitabine therapy",
+        "object_text": "end of June 2023",
+        "relation": "ENDS-ON"
+    },
+    {
+        "source_sentence": "She was administered cisplatin every three weeks and her last treatment was on February 15, 2023.",
+        "subject_text": "cisplatin",
+        "object_text": "February 15, 2023",
+        "relation": "ENDS-ON"
+    },
+    {
+        "source_sentence": "After a series of six infusions of carboplatin and paclitaxel, the chemotherapy ended on August 10, 2022.",
+        "subject_text": "carboplatin and paclitaxel",
+        "object_text": "August 10, 2022",
+        "relation": "ENDS-ON"
+    },
+    {
+        "source_sentence": "The final dose of 5-fluorouracil was administered on March 3, 2023, marking the end of her chemotherapy regimen.",
+        "subject_text": "5-fluorouracil",
+        "object_text": "March 3, 2023",
+        "relation": "ENDS-ON"
+    },
+    {
+        "source_sentence": "The patient received a full course of Carboplatin from March 1, 2023, to April 15, 2023, after which the treatment was concluded.",
+        "subject_text": "Carboplatin",
+        "object_text": "April 15, 2023",
+        "relation": "ENDS-ON"
+    },
+    {
+        "source_sentence": "Following her diagnosis, she underwent 6 cycles of Cisplatin chemotherapy, which ended on 5/10/2023.",
+        "subject_text": "Cisplatin chemotherapy",
+        "object_text": "5/10/2023",
+        "relation": "ENDS-ON"
+    },
+    {
+        "source_sentence": "After several weeks of treatment, the administration of 5-Fluorouracil was completed on the last day of June 2023.",
+        "subject_text": "5-Fluorouracil",
+        "object_text": "last day of June 2023",
+        "relation": "ENDS-ON"
+    },
+    {
+        "source_sentence": "The patient concluded her regimen of Doxorubicin and Cyclophosphamide on July 15, 2023, after 4 cycles.",
+        "subject_text": "Doxorubicin and Cyclophosphamide",
+        "object_text": "July 15, 2023",
+        "relation": "ENDS-ON"
+    },
+    {
+        "source_sentence": "The administration of Gemcitabine was started in early May and successfully wrapped up on 6/30/2023.",
+        "subject_text": "Gemcitabine",
+        "object_text": "6/30/2023",
+        "relation": "ENDS-ON"
+    },
+    {
+        "source_sentence": "The patient received her last dose of doxorubicin on March 5th, concluding her chemotherapy treatment for breast cancer.",
+        "subject_text": "doxorubicin",
+        "object_text": "March 5th",
+        "relation": "ENDS-ON"
+    },
+    {
+        "source_sentence": "After undergoing six weeks of cisplatin therapy, her treatment was completed as of 10/22.",
+        "subject_text": "cisplatin therapy",
+        "object_text": "10/22",
+        "relation": "ENDS-ON"
+    },
+    {
+        "source_sentence": "The chemotherapy regimen consisting of carboplatin and paclitaxel finished last week, which was a significant milestone in her treatment plan.",
+        "subject_text": "carboplatin and paclitaxel",
+        "object_text": "last week",
+        "relation": "ENDS-ON"
+    },
+    {
+        "source_sentence": "Patient's last infusion of gemcitabine was on 15th August, marking the end of her current chemotherapy cycle.",
+        "subject_text": "gemcitabine",
+        "object_text": "15th August",
+        "relation": "ENDS-ON"
+    },
+    {
+        "source_sentence": "She has completed her 4th cycle of FOLFOX, with the final treatment occurring in early September.",
+        "subject_text": "FOLFOX",
+        "object_text": "early September",
+        "relation": "ENDS-ON"
+    },
+    {
+        "source_sentence": "The patient completed their treatment regimen with cisplatin and etoposide, which concluded in December 2021.",
+        "subject_text": "cisplatin and etoposide",
+        "object_text": "December 2021",
+        "relation": "ENDS-ON"
+    },
+    {
+        "source_sentence": "After a thorough evaluation, the oncologist recommended a 12-week course of gemcitabine, which was finished by the end of March 2022.",
+        "subject_text": "gemcitabine",
+        "object_text": "the end of March 2022",
+        "relation": "ENDS-ON"
+    },
+    {
+        "source_sentence": "Following the diagnosis, the patient underwent a series of 8 cycles of FOLFOX, and the last cycle was administered in late July 2020.",
+        "subject_text": "FOLFOX",
+        "object_text": "late July 2020",
+        "relation": "ENDS-ON"
+    },
+    {
+        "source_sentence": "The chemotherapy protocol involving doxorubicin was initiated and successfully completed in early May 2019.",
+        "subject_text": "doxorubicin",
+        "object_text": "early May 2019",
+        "relation": "ENDS-ON"
+    },
+    {
+        "source_sentence": "The patient received a full course of carboplatin and paclitaxel, which ended in the first week of August 2023.",
+        "subject_text": "carboplatin and paclitaxel",
+        "object_text": "the first week of August 2023",
+        "relation": "ENDS-ON"
+    },
+    {
+        "source_sentence": "The patient completed her treatment with doxorubicin and cyclophosphamide, which was finalized on March 15, 2022.",
+        "subject_text": "doxorubicin and cyclophosphamide",
+        "object_text": "March 15, 2022",
+        "relation": "ENDS-ON"
+    },
+    {
+        "source_sentence": "Following 6 cycles of carboplatin and gemcitabine, the last session concluded in early December 2021.",
+        "subject_text": "carboplatin and gemcitabine",
+        "object_text": "early December 2021",
+        "relation": "ENDS-ON"
+    },
+    {
+        "source_sentence": "After completing the treatment regimen of 5-FU and leucovorin, the patient reported that the final dose was administered on July 30.",
+        "subject_text": "5-FU and leucovorin",
+        "object_text": "July 30",
+        "relation": "ENDS-ON"
+    },
+    {
+        "source_sentence": "Ms. Smith underwent a total of 8 cycles of paclitaxel, with her last chemotherapy session occurring on April 5, 2023.",
+        "subject_text": "paclitaxel",
+        "object_text": "April 5, 2023",
+        "relation": "ENDS-ON"
+    },
+    {
+        "source_sentence": "The oncologist noted that the patient finished her treatment with cisplatin and etoposide on October 1, 2020.",
+        "subject_text": "cisplatin and etoposide",
+        "object_text": "October 1, 2020",
+        "relation": "ENDS-ON"
+    },
+    {
+        "source_sentence": "The patient completed four cycles of doxorubicin and cyclophosphamide, which concluded on March 10, 2021, before beginning radiation therapy.",
+        "subject_text": "doxorubicin and cyclophosphamide",
+        "object_text": "March 10, 2021",
+        "relation": "ENDS-ON"
+    },
+    {
+        "source_sentence": "After receiving a full course of gemcitabine and cisplatin therapy, which ended in early July 2022, the patient reported significant symptom relief.",
+        "subject_text": "gemcitabine and cisplatin therapy",
+        "object_text": "early July 2022",
+        "relation": "ENDS-ON"
+    },
+    {
+        "source_sentence": "Following her treatment with paclitaxel that lasted until November 15, 2020, we reassessed her condition during the follow-up visit.",
+        "subject_text": "paclitaxel",
+        "object_text": "November 15, 2020",
+        "relation": "ENDS-ON"
+    },
+    {
+        "source_sentence": "She underwent six cycles of carboplatin and etoposide, with the final dose administered on December 1, 2019.",
+        "subject_text": "carboplatin and etoposide",
+        "object_text": "December 1, 2019",
+        "relation": "ENDS-ON"
+    },
+    {
+        "source_sentence": "The administration of oxaliplatin was successfully concluded by the end of May 2023, paving the way for further assessment of the treatment's effectiveness.",
+        "subject_text": "oxaliplatin",
+        "object_text": "end of May 2023",
+        "relation": "ENDS-ON"
+    },
+    {
+        "source_sentence": "The patient completed her chemotherapy regimen of doxorubicin and cyclophosphamide on February 15, 2023, and is now scheduled for radiation therapy.",
+        "subject_text": "doxorubicin and cyclophosphamide",
+        "object_text": "February 15, 2023",
+        "relation": "ENDS-ON"
+    },
+    {
+        "source_sentence": "Following four cycles of gemcitabine and cisplatin, the last treatment was administered on July 10, 2023.",
+        "subject_text": "gemcitabine and cisplatin",
+        "object_text": "July 10, 2023",
+        "relation": "ENDS-ON"
+    },
+    {
+        "source_sentence": "The chemotherapy treatment with carboplatin concluded in the last week of April 2023, after which the patient was assessed for further interventions.",
+        "subject_text": "carboplatin",
+        "object_text": "last week of April 2023",
+        "relation": "ENDS-ON"
+    },
+    {
+        "source_sentence": "After completing his chemotherapy with paclitaxel and trastuzumab, which finished in mid-March 2023, he reported significant improvements.",
+        "subject_text": "paclitaxel and trastuzumab",
+        "object_text": "mid-March 2023",
+        "relation": "ENDS-ON"
+    },
+    {
+        "source_sentence": "The administration of oxaliplatin and fluorouracil concluded on January 30, 2023, allowing the patient to start follow-up appointments thereafter.",
+        "subject_text": "oxaliplatin and fluorouracil",
+        "object_text": "January 30, 2023",
+        "relation": "ENDS-ON"
+    },
+    {
+        "source_sentence": "The patient completed a regimen of cisplatin and gemcitabine on March 15, 2022, following a total of six cycles over a span of three months.",
+        "subject_text": "cisplatin and gemcitabine",
+        "object_text": "March 15, 2022",
+        "relation": "ENDS-ON"
+    },
+    {
+        "source_sentence": "After undergoing treatment with FOLFOX for a duration of 12 weeks, the chemotherapy concluded on January 10, 2021.",
+        "subject_text": "FOLFOX",
+        "object_text": "January 10, 2021",
+        "relation": "ENDS-ON"
+    },
+    {
+        "source_sentence": "The patient received three cycles of docetaxel, which finished at the end of July 2023, after an extensive evaluation.",
+        "subject_text": "docetaxel",
+        "object_text": "end of July 2023",
+        "relation": "ENDS-ON"
+    },
+    {
+        "source_sentence": "Following her treatment with carboplatin and paclitaxel, which lasted until April 30, 2020, the patient was assessed for further therapy options.",
+        "subject_text": "carboplatin and paclitaxel",
+        "object_text": "April 30, 2020",
+        "relation": "ENDS-ON"
+    },
+    {
+        "source_sentence": "The patient completed a cycle of high-dose methotrexate, which was administered from February 1 to February 28, 2023, marking the end of her chemotherapy regimen.",
+        "subject_text": "high-dose methotrexate",
+        "object_text": "February 28, 2023",
+        "relation": "ENDS-ON"
+    },
+    {
+        "source_sentence": "The patient completed her treatment regimen of cisplatin and gemcitabine on May 15, 2021, after undergoing four cycles of chemotherapy.",
+        "subject_text": "cisplatin and gemcitabine",
+        "object_text": "May 15, 2021",
+        "relation": "ENDS-ON"
+    },
+    {
+        "source_sentence": "Following the last administration of doxorubicin on October 10, 2022, the patient was monitored for any potential side effects.",
+        "subject_text": "doxorubicin",
+        "object_text": "October 10, 2022",
+        "relation": "ENDS-ON"
+    },
+    {
+        "source_sentence": "He received his final dose of carboplatin and paclitaxel on the first of March, 2020, concluding his chemotherapy treatment.",
+        "subject_text": "carboplatin and paclitaxel",
+        "object_text": "the first of March, 2020",
+        "relation": "ENDS-ON"
+    },
+    {
+        "source_sentence": "After six cycles of FOLFOX, the chemotherapy was completed as of August 5, 2019, marking the end of this treatment phase.",
+        "subject_text": "FOLFOX",
+        "object_text": "August 5, 2019",
+        "relation": "ENDS-ON"
+    },
+    {
+        "source_sentence": "The patient's regimen of rituximab was concluded on February 28, 2023, following a successful treatment course lasting several months.",
+        "subject_text": "rituximab",
+        "object_text": "February 28, 2023",
+        "relation": "ENDS-ON"
+    },
+    {
+        "source_sentence": "The patient completed her treatment with gemcitabine and cisplatin in late March 2022 after six cycles of chemotherapy.",
+        "subject_text": "gemcitabine and cisplatin",
+        "object_text": "late March 2022",
+        "relation": "ENDS-ON"
+    },
+    {
+        "source_sentence": "After a rigorous regimen of doxorubicin over the last 12 weeks, her chemotherapy ended on September 15, 2023.",
+        "subject_text": "doxorubicin",
+        "object_text": "September 15, 2023",
+        "relation": "ENDS-ON"
+    },
+    {
+        "source_sentence": "Following treatment with carboplatin and etoposide, the patient finished her chemotherapy by the end of November 2021.",
+        "subject_text": "carboplatin and etoposide",
+        "object_text": "the end of November 2021",
+        "relation": "ENDS-ON"
+    },
+    {
+        "source_sentence": "The oncology team reported that the patient’s taxane therapy concluded in the first week of April 2023 after an intensive 10-week schedule.",
+        "subject_text": "taxane therapy",
+        "object_text": "the first week of April 2023",
+        "relation": "ENDS-ON"
+    },
+    {
+        "source_sentence": "She has successfully completed her last round of chemotherapy with capecitabine, which wrapped up in mid-January 2022.",
+        "subject_text": "capecitabine",
+        "object_text": "mid-January 2022",
+        "relation": "ENDS-ON"
+    },
+    {
+        "source_sentence": "After undergoing four cycles of doxorubicin, the patient completed her chemotherapy treatment in late March 2023, followed by radiation therapy.",
+        "subject_text": "doxorubicin",
+        "object_text": "late March 2023",
+        "relation": "ENDS-ON"
+    },
+    {
+        "source_sentence": "The patient was administered a regimen of cisplatin and gemcitabine, which concluded on October 15, 2022, as per the treatment plan.",
+        "subject_text": "cisplatin and gemcitabine",
+        "object_text": "October 15, 2022",
+        "relation": "ENDS-ON"
+    },
+    {
+        "source_sentence": "Following her diagnosis, she started chemotherapy with paclitaxel and carboplatin, which she finished by the end of July 2021.",
+        "subject_text": "paclitaxel and carboplatin",
+        "object_text": "the end of July 2021",
+        "relation": "ENDS-ON"
+    },
+    {
+        "source_sentence": "He received a complete course of Etoposide starting in February 2023, with treatment concluding on March 30, 2023.",
+        "subject_text": "Etoposide",
+        "object_text": "March 30, 2023",
+        "relation": "ENDS-ON"
+    },
+    {
+        "source_sentence": "The chemotherapy regimen, which included both methotrexate and 5-fluorouracil, was successfully completed in mid-November 2020.",
+        "subject_text": "methotrexate and 5-fluorouracil",
+        "object_text": "mid-November 2020",
+        "relation": "ENDS-ON"
+    },
+    {
+        "source_sentence": "The patient underwent a regimen of doxorubicin followed by cyclophosphamide, which concluded on March 15, 2021, after a total of four cycles.",
+        "subject_text": "cyclophosphamide",
+        "object_text": "March 15, 2021",
+        "relation": "ENDS-ON"
+    },
+    {
+        "source_sentence": "Following her initial diagnosis, she received 12 weeks of gemcitabine therapy that was completed by the end of April 2020.",
+        "subject_text": "gemcitabine therapy",
+        "object_text": "end of April 2020",
+        "relation": "ENDS-ON"
+    },
+    {
+        "source_sentence": "The chemotherapy course involving pemetrexed was administered until it was finished in late June 2019.",
+        "subject_text": "pemetrexed",
+        "object_text": "late June 2019",
+        "relation": "ENDS-ON"
+    },
+    {
+        "source_sentence": "After six cycles of oxaliplatin and fluorouracil, the treatment was finalized on November 10, 2022.",
+        "subject_text": "fluorouracil",
+        "object_text": "November 10, 2022",
+        "relation": "ENDS-ON"
+    },
+    {
+        "source_sentence": "The patient completed her chemotherapy regimen of carboplatin and paclitaxel, with the last dose administered on January 5th, 2023.",
+        "subject_text": "paclitaxel",
+        "object_text": "January 5th, 2023",
+        "relation": "ENDS-ON"
+    },
+    {
+        "source_sentence": "The patient completed her chemotherapy regimen of cisplatin and gemcitabine on July 15, 2023, after experiencing significant side effects.",
+        "subject_text": "cisplatin and gemcitabine",
+        "object_text": "July 15, 2023",
+        "relation": "ENDS-ON"
+    },
+    {
+        "source_sentence": "After receiving a total of 12 cycles of 5-fluorouracil and leucovorin, the last treatment session took place in late August 2023.",
+        "subject_text": "5-fluorouracil and leucovorin",
+        "object_text": "late August 2023",
+        "relation": "ENDS-ON"
+    },
+    {
+        "source_sentence": "Following her initial diagnosis, she underwent a chemotherapy protocol including doxorubicin and cyclophosphamide, which concluded on March 10, 2023.",
+        "subject_text": "doxorubicin and cyclophosphamide",
+        "object_text": "March 10, 2023",
+        "relation": "ENDS-ON"
+    },
+    {
+        "source_sentence": "The patient was treated with Taxol and carboplatin, finishing the last dose on 11/20/2022, after which she transitioned to maintenance therapy.",
+        "subject_text": "Taxol and carboplatin",
+        "object_text": "11/20/2022",
+        "relation": "ENDS-ON"
+    },
+    {
+        "source_sentence": "She received her last dose of capecitabine on February 5, 2023, marking the end of her chemotherapy treatment cycle.",
+        "subject_text": "capecitabine",
+        "object_text": "February 5, 2023",
+        "relation": "ENDS-ON"
+    },
+    {
+        "source_sentence": "The patient underwent FOLFOX chemotherapy regimen, which was concluded in February 2023 after 12 weeks of treatment.",
+        "subject_text": "FOLFOX chemotherapy regimen",
+        "object_text": "February 2023",
+        "relation": "ENDS-ON"
+    },
+    {
+        "source_sentence": "Following her diagnosis, she received a total of 4 cycles of Adriamycin and Cytoxan, finishing treatment in early March.",
+        "subject_text": "Adriamycin and Cytoxan",
+        "object_text": "early March",
+        "relation": "ENDS-ON"
+    },
+    {
+        "source_sentence": "After initiating the chemotherapy with Carboplatin and Gemcitabine, the last session was administered on April 15, 2023.",
+        "subject_text": "Carboplatin and Gemcitabine",
+        "object_text": "April 15, 2023",
+        "relation": "ENDS-ON"
+    },
+    {
+        "source_sentence": "The oncology team decided on a treatment plan that included 6 rounds of Taxotere, which concluded in the summer of 2022.",
+        "subject_text": "Taxotere",
+        "object_text": "the summer of 2022",
+        "relation": "ENDS-ON"
+    },
+    {
+        "source_sentence": "After 8 weeks of Cisplatin and Etoposide chemotherapy, the patient's treatment ended successfully in mid-January.",
+        "subject_text": "Cisplatin and Etoposide chemotherapy",
+        "object_text": "mid-January",
+        "relation": "ENDS-ON"
+    },
+    {
+        "source_sentence": "The patient finished their treatment with doxorubicin and cyclophosphamide in June 2023, showing significant improvement in symptoms.",
+        "subject_text": "doxorubicin and cyclophosphamide",
+        "object_text": "June 2023",
+        "relation": "ENDS-ON"
+    },
+    {
+        "source_sentence": "After receiving 12 weekly infusions of pembrolizumab, the chemotherapy concluded at the end of last year.",
+        "subject_text": "pembrolizumab",
+        "object_text": "the end of last year",
+        "relation": "ENDS-ON"
+    },
+    {
+        "source_sentence": "She has undergone a complete course of FOLFOX chemotherapy, which wrapped up around mid-September.",
+        "subject_text": "FOLFOX chemotherapy",
+        "object_text": "mid-September",
+        "relation": "ENDS-ON"
+    },
+    {
+        "source_sentence": "The patient started the AC chemotherapy regimen and completed it by the first week of March.",
+        "subject_text": "AC chemotherapy regimen",
+        "object_text": "the first week of March",
+        "relation": "ENDS-ON"
+    },
+    {
+        "source_sentence": "His treatment protocol with gemcitabine ended shortly after the Thanksgiving holiday.",
+        "subject_text": "gemcitabine",
+        "object_text": "shortly after the Thanksgiving holiday",
+        "relation": "ENDS-ON"
+    },
+    {
+        "source_sentence": "The patient completed a regimen of cisplatin and gemcitabine on March 15, 2023, following which a follow-up imaging was scheduled.",
+        "subject_text": "cisplatin and gemcitabine",
+        "object_text": "March 15, 2023",
+        "relation": "ENDS-ON"
+    },
+    {
+        "source_sentence": "After administering four cycles of doxorubicin and cyclophosphamide, the chemotherapy ended in late April 2023.",
+        "subject_text": "doxorubicin and cyclophosphamide",
+        "object_text": "late April 2023",
+        "relation": "ENDS-ON"
+    },
+    {
+        "source_sentence": "The patient's treatment plan involved eight weeks of pemetrexed and carboplatin, concluding on July 10, 2023.",
+        "subject_text": "pemetrexed and carboplatin",
+        "object_text": "July 10, 2023",
+        "relation": "ENDS-ON"
+    },
+    {
+        "source_sentence": "She underwent a course of taxol and trastuzumab, which wrapped up by the end of May 2023.",
+        "subject_text": "taxol and trastuzumab",
+        "object_text": "the end of May 2023",
+        "relation": "ENDS-ON"
+    },
+    {
+        "source_sentence": "The patient finished her chemotherapy treatment with oxaliplatin and fluorouracil on January 5, 2023, after a total of six sessions.",
+        "subject_text": "oxaliplatin and fluorouracil",
+        "object_text": "January 5, 2023",
+        "relation": "ENDS-ON"
+    },
+    {
+        "source_sentence": "The patient underwent a regimen of doxorubicin and cyclophosphamide, which was completed by the end of March 2023, before starting radiation therapy.",
+        "subject_text": "doxorubicin and cyclophosphamide",
+        "object_text": "the end of March 2023",
+        "relation": "ENDS-ON"
+    },
+    {
+        "source_sentence": "Following four rounds of the FOLFOX protocol, the chemotherapy treatment concluded in mid-July 2022, allowing for surgical intervention thereafter.",
+        "subject_text": "FOLFOX protocol",
+        "object_text": "mid-July 2022",
+        "relation": "ENDS-ON"
+    },
+    {
+        "source_sentence": "After receiving a combination of gemcitabine and cisplatin, the patient's chemotherapy was finalized in early February 2021, and follow-up appointments were scheduled.",
+        "subject_text": "gemcitabine and cisplatin",
+        "object_text": "early February 2021",
+        "relation": "ENDS-ON"
+    },
+    {
+        "source_sentence": "She completed her last cycle of carboplatin and paclitaxel on October 15, 2022, which marked the end of her chemotherapy course.",
+        "subject_text": "carboplatin and paclitaxel",
+        "object_text": "October 15, 2022",
+        "relation": "ENDS-ON"
+    },
+    {
+        "source_sentence": "The patient had a total of six cycles of taxotere, which wrapped up in January 2023, before moving on to hormone therapy.",
+        "subject_text": "taxotere",
+        "object_text": "January 2023",
+        "relation": "ENDS-ON"
+    },
+    {
+        "source_sentence": "The patient received her final dose of doxorubicin on March 15, 2023, concluding the chemotherapy regimen.",
+        "subject_text": "doxorubicin",
+        "object_text": "March 15, 2023",
+        "relation": "ENDS-ON"
+    },
+    {
+        "source_sentence": "Following six cycles of cisplatin and etoposide, the treatment was completed in late February 2023.",
+        "subject_text": "cisplatin and etoposide",
+        "object_text": "late February 2023",
+        "relation": "ENDS-ON"
+    },
+    {
+        "source_sentence": "After receiving a total of four sessions of gemcitabine, the chemotherapy ended around the first week of July 2023.",
+        "subject_text": "gemcitabine",
+        "object_text": "the first week of July 2023",
+        "relation": "ENDS-ON"
+    },
+    {
+        "source_sentence": "She underwent a series of 12 infusions of rituximab, which were completed by the end of August 2023.",
+        "subject_text": "rituximab",
+        "object_text": "the end of August 2023",
+        "relation": "ENDS-ON"
+    },
+    {
+        "source_sentence": "The patient completed a course of FOLFIRINOX on May 30, 2023, bringing the chemotherapy to a close.",
+        "subject_text": "FOLFIRINOX",
+        "object_text": "May 30, 2023",
+        "relation": "ENDS-ON"
+    },
+    {
+        "source_sentence": "The patient completed her regimen of cisplatin and etoposide on December 5, 2022, after a series of successful treatments.",
+        "subject_text": "cisplatin and etoposide",
+        "object_text": "December 5, 2022",
+        "relation": "ENDS-ON"
+    },
+    {
+        "source_sentence": "After receiving the final dose of doxorubicin on July 10, 2021, the chemotherapy treatment was officially concluded.",
+        "subject_text": "doxorubicin",
+        "object_text": "July 10, 2021",
+        "relation": "ENDS-ON"
+    },
+    {
+        "source_sentence": "The chemotherapy session with gemcitabine lasted until the end of April 2023, marking a significant milestone in the patient's treatment journey.",
+        "subject_text": "gemcitabine",
+        "object_text": "the end of April 2023",
+        "relation": "ENDS-ON"
+    },
+    {
+        "source_sentence": "She underwent 8 cycles of capecitabine, which concluded on March 1, 2022, as per the treatment plan.",
+        "subject_text": "capecitabine",
+        "object_text": "March 1, 2022",
+        "relation": "ENDS-ON"
+    },
+    {
+        "source_sentence": "The oncologist noted that the patient had completed the last infusion of paclitaxel by June 30, 2023.",
+        "subject_text": "paclitaxel",
+        "object_text": "June 30, 2023",
+        "relation": "ENDS-ON"
+    },
+    {
+        "source_sentence": "The patient completed her chemotherapy regimen of gemcitabine and cisplatin, which ended in early June 2023.",
+        "subject_text": "gemcitabine and cisplatin",
+        "object_text": "early June 2023",
+        "relation": "ENDS-ON"
+    },
+    {
+        "source_sentence": "Following six cycles of FOLFIRINOX, the treatment concluded on September 15, 2023.",
+        "subject_text": "FOLFIRINOX",
+        "object_text": "September 15, 2023",
+        "relation": "ENDS-ON"
+    },
+    {
+        "source_sentence": "The patient's chemotherapy with doxorubicin lasted until December 2022.",
+        "subject_text": "doxorubicin",
+        "object_text": "December 2022",
+        "relation": "ENDS-ON"
+    },
+    {
+        "source_sentence": "After receiving 12 weeks of taxane-based chemotherapy, the treatment finished in late February 2023.",
+        "subject_text": "taxane-based chemotherapy",
+        "object_text": "late February 2023",
+        "relation": "ENDS-ON"
+    },
+    {
+        "source_sentence": "She underwent a regimen of cyclophosphamide, which was completed by the end of March 2023.",
+        "subject_text": "cyclophosphamide",
+        "object_text": "the end of March 2023",
+        "relation": "ENDS-ON"
+    }
+]

@@ -8,6 +8,7 @@ This project implements a relation classification model that:
 - Takes pairs of entities (events and time expressions) with their positions in clinical text
 - Predicts temporal relationships (BEGINS-ON, CONTAINS, ENDS-ON, or no_relation) between entity pairs
 - Uses BioBERT as the base model with custom span representation and context extraction
+- Handles class imbalance through synthetic data generation using ChatGPT-4o-mini
 
 ## Dataset
 
@@ -28,7 +29,10 @@ chemotherapy-TLINK-detection/
 │   ├── relation_model.py                 # Model training
 │   └── test_relation_model.py            # Model evaluation
 ├── models/
-│   └── entity_config.json                # entity configuration
+│   └── entity_config.json                # Entity configuration
+├── synthetic_data/
+│   ├── synthetic_begins_ends.jsonl       # 160 synthetic BEGINS-ON and 310 synthetic ENDS-ON examples
+│   └── generation_prompt.md              # ChatGPT prompt used for generation
 └── README.md                             # This file
 ```
 
@@ -58,14 +62,33 @@ python src/chemo_processor_no_relation.py
 - `train_entities.jsonl` - Training entities for NER
 - `dev_entities.jsonl` - Development entities for NER
 
-### 2. Model Training
+### 2. Synthetic Data Generation
+
+To address class imbalance, synthetic training examples have been generated for underrepresented relations (BEGINS-ON and ENDS-ON) using ChatGPT-4o-mini. The synthetic data files are included in the `synthetic_data/` directory:
+
+- `synthetic_begins_ends.jsonl` - 160 synthetic BEGINS-ON and 310 synthetic ENDS-ON examples
+- `generation_prompt.md` - The exact prompt used for ChatGPT generation
+
+### 3. Model Training
 
 Train the relation classification model:
 
 ```bash
+# Using original data only
 python src/relation_model.py \
-    --train data/processed/chemo_train_relations.jsonl \
-    --val data/processed/chemo_dev_relations.jsonl \
+    --train chemo_train_relations.jsonl \
+    --val chemo_dev_relations.jsonl \
+    --relation_types BEGINS-ON CONTAINS ENDS-ON \
+    --model_dir models/ \
+    --epochs 20 \
+    --batch_size 8 \
+    --learning_rate 3e-5 \
+    --entity_config models/entity_config.json
+
+# Using original + synthetic data (recommended for better performance)
+python src/relation_model.py \
+    --train train_with_synthetic.jsonl \
+    --val chemo_dev_relations.jsonl \
     --relation_types BEGINS-ON CONTAINS ENDS-ON \
     --model_dir models/ \
     --epochs 20 \
@@ -82,10 +105,10 @@ python src/relation_model.py \
 
 **Advanced options:**
 ```bash
-# With class weighting for imbalanced data
+# With class weighting for imbalanced data (alternative to synthetic data)
 python src/relation_model.py \
-    --train data/processed/chemo_train_relations.jsonl \
-    --val data/processed/chemo_dev_relations.jsonl \
+    --train chemo_train_relations.jsonl \
+    --val chemo_dev_relations.jsonl \
     --relation_types BEGINS-ON CONTAINS ENDS-ON \
     --class_weights 2.0 1.0 2.0 0.5 \
     --model_dir models/ \
@@ -93,13 +116,13 @@ python src/relation_model.py \
     --entity_config models/entity_config.json
 ```
 
-### 3. Model Evaluation
+### 4. Model Evaluation
 
 Test the trained model:
 
 ```bash
 python src/test_relation_model.py \
-    --test_data data/processed/test_relations.jsonl \
+    --test_data test_relations.jsonl \
     --model_dir models/ \
     --output_dir results/
 ```
@@ -127,6 +150,7 @@ python src/test_relation_model.py \
 - **Span Width Encoding**: Captures entity span length information
 - **Balanced Training**: Custom batch sampling and class weighting
 - **Context-Aware**: Sophisticated context extraction beyond simple concatenation
+- **Synthetic Data Augmentation**: Handles class imbalance through ChatGPT-generated examples
 
 ## Configuration
 
@@ -141,6 +165,16 @@ processor = ChemotherapyDataProcessor(no_relation_ratio=0.9)
 MAX_DISTANCE = 100  # characters between entities
 ```
 
+### Synthetic Data Configuration
+
+The synthetic data was generated using ChatGPT-4o-mini with the following approach:
+- 160 synthetic examples for BEGINS-ON relation
+- 310 synthetic examples for ENDS-ON relation  
+- Generated to address class imbalance in the original dataset
+- See `synthetic_data/generation_prompt.md` for the exact prompt used
+
+**Note**: The synthetic data generation addresses the class imbalance observed in chemotherapy datasets where BEGINS-ON and ENDS-ON relations are typically underrepresented compared to CONTAINS and no_relation.
+
 ## Results and Metrics
 
 The model provides comprehensive evaluation metrics:
@@ -150,3 +184,21 @@ The model provides comprehensive evaluation metrics:
 - **Per-Class Analysis**: Precision, recall, F1 for each relation type
 - **Confusion Matrix**: Detailed breakdown of classification errors
 - **No-Relation Analysis**: Special focus on negative class performance
+
+## License
+
+This project is licensed under the MIT License.
+
+## Citation
+
+If you use this code in your research, please cite:
+
+```bibtex
+@misc{chemotherapy-tlink-detection,
+  title={Chemotherapy TLINK Detection},
+  author={Your Name},
+  year={2024},
+  publisher={GitHub},
+  howpublished={\url{https://github.com/yourusername/chemotherapy-TLINK-detection}}
+}
+```
