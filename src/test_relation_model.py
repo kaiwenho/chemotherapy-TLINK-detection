@@ -16,7 +16,7 @@ import seaborn as sns
 from collections import Counter
 
 # Import from the main relation model file
-from improved_relation_model import (
+from relation_model import (
     RelationConfig, RelationDataset, RelationClassifier,
     collate_fn, load_config
 )
